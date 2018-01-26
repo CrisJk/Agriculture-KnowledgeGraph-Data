@@ -15,6 +15,7 @@ class WikientitiesPipeline(object):
 	def process_item(self, item, spider):
 
 		entityjson = json.dumps(dict(item),ensure_ascii=False) + '\n'
-		#print(entityjson)
+		print("pipline")
+		print(entityjson)
 		self.file.write(entityjson)
 		return item

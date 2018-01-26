@@ -10,5 +10,7 @@ import scrapy
 
 class WikidatarelationItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    entity1 = scrapy.Field()
+    entity2 = scrapy.Field()
+    relation = scrapy.Field()
+    

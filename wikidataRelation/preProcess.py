@@ -16,3 +16,4 @@ with open("entities.json","r") as fr:
 	 			resultJson['jsonNumber'] = entity['jsonNumber']
 	 			resultJson = json.dumps(dict(resultJson),ensure_ascii=False) + '\n'
 	 			resultJsonFile.write(resultJson)
+	 			break
