@@ -10,7 +10,7 @@ python3、 Scrapy
 
 wikidata中的所有关系都汇总在该网页上[(链接)](https://www.wikidata.org/wiki/Wikidata:List_of_properties/Summary_table) ，wikidataCrawler将该网页下的汇总的所有关系及其对应的中文名称爬取下来，存储为json格式
 
-![][https://raw.githubusercontent.com/CrisJk/SomePicture/master/blog_picture/wikiRelationSumary.png]
+![](https://raw.githubusercontent.com/CrisJk/SomePicture/master/blog_picture/wikiRelationSumary.png)
 
 ##### 使用方法
 
