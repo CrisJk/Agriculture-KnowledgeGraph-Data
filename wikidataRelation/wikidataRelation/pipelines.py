@@ -9,10 +9,9 @@ import json
 
 class WikidatarelationPipeline(object):
 	def __init__(self):
-		self.file = codecs.open('entityRelation.json','w',encoding = 'utf-8')
+		self.file = codecs.open('entityRelation2.json','w',encoding = 'utf-8')
 
 	def process_item(self, item, spider):
-		print("pipeline")
 		print(item)
 		entityjson = json.dumps(dict(item),ensure_ascii=False) + '\n'
 		#print(entityjson)

@@ -22,7 +22,7 @@ class entitiesSpider(scrapy.spiders.Spider):
 		entityNumberList = list()
 		jsonItemList = list()
 		entityCount = 0
-		with open('/home/kuangjun/predict_labels7.txt','r') as f:
+		with open('/home/kuangjun/predict_labels2.txt','r') as f:
 			for line in f:
 				entity = line.split(" ")[0]
 				if(len(line.split(" ")) >= 2):

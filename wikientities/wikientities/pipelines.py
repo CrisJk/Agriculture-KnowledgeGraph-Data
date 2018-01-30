@@ -9,7 +9,7 @@ import codecs
 import json
 class WikientitiesPipeline(object):
 	def __init__(self):
-		self.file = codecs.open('entities.json','w',encoding = 'utf-8')
+		self.file = codecs.open('entities2.json','w',encoding = 'utf-8')
 
 
 	def process_item(self, item, spider):

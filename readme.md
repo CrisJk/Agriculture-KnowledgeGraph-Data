@@ -42,6 +42,7 @@ wikidataRelation爬取得到的是实体和实体间的三元关系，wikidata�
 
 ##### 使用方法
 
-进入到wikidataRelation目录下，运行scrapy crawl entityRelation。可以得到`entityRelation.json` 。
+首先运行preProcess.py，得到readytoCrawl.json。然后进入到wikidataRelation目录下，运行scrapy crawl entityRelation。可以得到`entityRelation.json` 。
 
 `entityRelation.json`是利用`entity.json`中的所有实体为基础，获取与这些实体相关的其他实体和关系。
+

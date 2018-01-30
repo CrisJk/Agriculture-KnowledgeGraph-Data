@@ -4,8 +4,8 @@ import json
 import codecs
 import time
 
-resultJsonFile = codecs.open('readytoCrawl.json','w',encoding = 'utf-8') ; 
-with open("entities.json","r") as fr:
+resultJsonFile = codecs.open('readytoCrawl2.json','w',encoding = 'utf-8') ; 
+with open("entities2.json","r") as fr:
 	 for line in fr.readlines():
 	 	entity = json.loads(line)
 	 	for repository in entity['jsonItem']['search']:

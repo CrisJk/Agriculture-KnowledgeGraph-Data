@@ -1,0 +1,2007 @@
+{"entity1": "CCTV-7", "relation": "instance of", "entity2": "電視頻道"}
+{"entity1": "兴蒙蒙古族乡", "relation": "instance of", "entity2": "民族乡"}
+{"entity1": "兴蒙蒙古族乡", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "兴蒙蒙古族乡", "relation": "located in the administrative territorial entity", "entity2": "通海县"}
+{"entity1": "五通镇", "relation": "instance of", "entity2": "行政建制镇"}
+{"entity1": "兴蒙蒙古族乡", "relation": "located in time zone", "entity2": "UTC+8"}
+{"entity1": "五通镇", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "兴起狡蛛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中国农业科学院兰州畜牧与兽药研究所", "relation": "instance of", "entity2": "設施"}
+{"entity1": "中华狼蛛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中国农业科学院兰州兽医研究所", "relation": "instance of", "entity2": "設施"}
+{"entity1": "中华隐子草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中华七纺蛛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中化集团", "relation": "instance of", "entity2": "企业"}
+{"entity1": "万金塔乡", "relation": "instance of", "entity2": "乡"}
+{"entity1": "五通镇", "relation": "located in the administrative territorial entity", "entity2": "临桂区"}
+{"entity1": "中国农业科学院兰州畜牧与兽药研究所", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "中国农业科学院兰州兽医研究所", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "中华隐子草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "中华七纺蛛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "中化集团", "relation": "industry", "entity2": "petroleum industry"}
+{"entity1": "万金塔乡", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "五通镇", "relation": "located in time zone", "entity2": "UTC+8"}
+{"entity1": "T33", "relation": "instance of", "entity2": "飛機系列"}
+{"entity1": "T301", "relation": "instance of", "entity2": "船級"}
+{"entity1": "僧帽瘤胸蛛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "世界粮食日", "relation": "instance of", "entity2": "联合国纪念活动"}
+{"entity1": "三突花蛛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "韦昌辉", "relation": "instance of", "entity2": "人類"}
+{"entity1": "水果硬糖", "relation": "instance of", "entity2": "音樂專輯"}
+{"entity1": "梭砂贝母", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中国农业科学院兰州畜牧与兽药研究所", "relation": "located in the administrative territorial entity", "entity2": "蘭州市"}
+{"entity1": "中国农业科学院兰州兽医研究所", "relation": "located in the administrative territorial entity", "entity2": "蘭州市"}
+{"entity1": "中华隐子草", "relation": "parent taxon", "entity2": "Cleistogenes"}
+{"entity1": "中华七纺蛛", "relation": "parent taxon", "entity2": "Heptathela"}
+{"entity1": "中化集团", "relation": "subsidiary", "entity2": "中化化肥控股"}
+{"entity1": "万金塔乡", "relation": "located in the administrative territorial entity", "entity2": "农安县"}
+{"entity1": "T33", "relation": "subclass of", "entity2": "F-80戰鬥機"}
+{"entity1": "T301", "relation": "subclass of", "entity2": "掃雷艦"}
+{"entity1": "僧帽瘤胸蛛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "世界粮食日", "relation": "founded by", "entity2": "联合国粮食及农业组织"}
+{"entity1": "三突花蛛", "relation": "taxon name", "entity2": "约翰·克里斯蒂安·法布里丘斯"}
+{"entity1": "韦昌辉", "relation": "sex or gender", "entity2": "男性"}
+{"entity1": "水果硬糖", "relation": "genre", "entity2": "嘻哈音樂"}
+{"entity1": "梭砂贝母", "relation": "taxon name", "entity2": "阿德里安·勒內·弗朗謝"}
+{"entity1": "中国农业科学院兰州畜牧与兽药研究所", "relation": "parent organization", "entity2": "中国农业科学院"}
+{"entity1": "中国农业科学院兰州兽医研究所", "relation": "parent organization", "entity2": "中国农业科学院"}
+{"entity1": "中化集团", "relation": "subsidiary", "entity2": "中国金茂"}
+{"entity1": "万金塔乡", "relation": "located in time zone", "entity2": "UTC+8"}
+{"entity1": "衡水老白干", "relation": "country of origin", "entity2": "中华人民共和国"}
+{"entity1": "黑猫", "relation": "instance of", "entity2": "劇場"}
+{"entity1": "grapa", "relation": "instance of", "entity2": "基因"}
+{"entity1": "伏特加", "relation": "subclass of", "entity2": "烈酒"}
+{"entity1": "福成", "relation": "country", "entity2": "中華民國"}
+{"entity1": "德拉诺", "relation": "instance of", "entity2": "城市"}
+{"entity1": "T33", "relation": "country", "entity2": "美国"}
+{"entity1": "T301", "relation": "mass", "entity2": "standard displacement"}
+{"entity1": "僧帽瘤胸蛛", "relation": "parent taxon", "entity2": "Oedothorax"}
+{"entity1": "三突花蛛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "韦昌辉", "relation": "country of citizenship", "entity2": "中国"}
+{"entity1": "水果硬糖", "relation": "performer", "entity2": "麥當娜"}
+{"entity1": "梭砂贝母", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "中化集团", "relation": "headquarters location", "entity2": "北京市"}
+{"entity1": "黑猫", "relation": "instance of", "entity2": "former building or structure"}
+{"entity1": "grapa", "relation": "found in taxon", "entity2": "斑馬魚"}
+{"entity1": "伏特加", "relation": "topic's main category", "entity2": "Category:伏特加"}
+{"entity1": "德拉诺", "relation": "country", "entity2": "美国"}
+{"entity1": "T33", "relation": "operator", "entity2": "比利时"}
+{"entity1": "T301", "relation": "mass", "entity2": "full-load displacement"}
+{"entity1": "三突花蛛", "relation": "parent taxon", "entity2": "Ebrechtella"}
+{"entity1": "水果硬糖", "relation": "record label", "entity2": "華納兄弟唱片公司"}
+{"entity1": "梭砂贝母", "relation": "parent taxon", "entity2": "贝母属"}
+{"entity1": "中化集团", "relation": "headquarters location", "entity2": "中华人民共和国"}
+{"entity1": "Maeva", "relation": "instance of", "entity2": "女性人名"}
+{"entity1": "克莱门特", "relation": "instance of", "entity2": "維基媒體消歧義頁"}
+{"entity1": "胡姬花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "古船", "relation": "instance of", "entity2": "图书"}
+{"entity1": "福临门", "relation": "instance of", "entity2": "餐馆"}
+{"entity1": "crudo", "relation": "instance of", "entity2": "technical term"}
+{"entity1": "AKA", "relation": "instance of", "entity2": "體育隊"}
+{"entity1": "人之初", "relation": "instance of", "entity2": "維基媒體消歧義頁"}
+{"entity1": "黑猫", "relation": "country", "entity2": "法国"}
+{"entity1": "grapa", "relation": "encodes", "entity2": "GRB2-related adaptor protein a"}
+{"entity1": "伏特加", "relation": "described by source", "entity2": "大英百科全書第十一版"}
+{"entity1": "德拉诺", "relation": "located in the administrative territorial entity", "entity2": "克恩县"}
+{"entity1": "T33", "relation": "operator", "entity2": "玻利維亞"}
+{"entity1": "水果硬糖", "relation": "country of origin", "entity2": "美国"}
+{"entity1": "中化集团", "relation": "topic's main category", "entity2": "Category:中化集团"}
+{"entity1": "Maeva", "relation": "language of work or name", "entity2": "大溪地語"}
+{"entity1": "克莱门特", "relation": "different from", "entity2": "Clement"}
+{"entity1": "胡姬花", "relation": "taxon name", "entity2": "安托万·罗兰·德朱西厄"}
+{"entity1": "古船", "relation": "genre", "entity2": "長篇小說"}
+{"entity1": "福临门", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "crudo", "relation": "part of", "entity2": "烹饪"}
+{"entity1": "grapa", "relation": "chromosome", "entity2": "Danio rerio chromosome 3"}
+{"entity1": "伏特加", "relation": "described by source", "entity2": "EB-11 / Vodka"}
+{"entity1": "T33", "relation": "operator", "entity2": "T-33 in Bolivian service"}
+{"entity1": "水果硬糖", "relation": "language of work or name", "entity2": "英语"}
+{"entity1": "锈斑豹猫", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "三溪水库", "relation": "instance of", "entity2": "水庫"}
+{"entity1": "金冢子镇", "relation": "instance of", "entity2": "行政建制镇"}
+{"entity1": "美菱", "relation": "instance of", "entity2": "公司"}
+{"entity1": "格兰仕", "relation": "instance of", "entity2": "企业"}
+{"entity1": "亚诺", "relation": "instance of", "entity2": "人類"}
+{"entity1": "Maeva", "relation": "writing system", "entity2": "拉丁文字"}
+{"entity1": "克莱门特", "relation": "different from", "entity2": "given name has to use a different item than disambiguation pages"}
+{"entity1": "胡姬花", "relation": "taxon rank", "entity2": "科"}
+{"entity1": "古船", "relation": "author", "entity2": "张炜"}
+{"entity1": "福临门", "relation": "award received", "entity2": "Michelin star"}
+{"entity1": "crudo", "relation": "language of work or name", "entity2": "意大利语"}
+{"entity1": "grapa", "relation": "strand orientation", "entity2": "Reverse Strand"}
+{"entity1": "伏特加", "relation": "has part", "entity2": "乙醇"}
+{"entity1": "T33", "relation": "operator", "entity2": "加拿大"}
+{"entity1": "水果硬糖", "relation": "producer", "entity2": "賈斯汀·提姆布萊克"}
+{"entity1": "锈斑豹猫", "relation": "taxon name", "entity2": "Isidore Geoffroy Saint-Hilaire"}
+{"entity1": "三溪水库", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "金冢子镇", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "美菱", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "格兰仕", "relation": "headquarters location", "entity2": "顺德区"}
+{"entity1": "亚诺", "relation": "sex or gender", "entity2": "男性"}
+{"entity1": "Maeva", "relation": "different from", "entity2": "Maeva"}
+{"entity1": "克莱门特", "relation": "different from", "entity2": "Clement"}
+{"entity1": "胡姬花", "relation": "parent taxon", "entity2": "天門冬目"}
+{"entity1": "古船", "relation": "country of origin", "entity2": "中华人民共和国"}
+{"entity1": "福临门", "relation": "cuisine", "entity2": "粤菜"}
+{"entity1": "crudo", "relation": "described at URL", "entity2": "英语"}
+{"entity1": "grapa", "relation": "genomic start", "entity2": "Danio rerio chromosome 3"}
+{"entity1": "伏特加", "relation": "has part", "entity2": "饮用水"}
+{"entity1": "T33", "relation": "operator", "entity2": "智利"}
+{"entity1": "水果硬糖", "relation": "follows", "entity2": "The Confessions Tour"}
+{"entity1": "西服", "relation": "subclass of", "entity2": "服装"}
+{"entity1": "玩偶", "relation": "subclass of", "entity2": "玩具"}
+{"entity1": "蔚然", "relation": "instance of", "entity2": "摩天大樓"}
+{"entity1": "美岸", "relation": "instance of", "entity2": "菲律賓城市"}
+{"entity1": "锈斑豹猫", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "金冢子镇", "relation": "located in the administrative territorial entity", "entity2": "安丘市"}
+{"entity1": "美菱", "relation": "stock exchange", "entity2": "深圳证券交易所"}
+{"entity1": "亚诺", "relation": "country of citizenship", "entity2": "英国"}
+{"entity1": "Maeva", "relation": "different from", "entity2": "given name has to use a different item than disambiguation pages"}
+{"entity1": "克莱门特", "relation": "different from", "entity2": "family name has to use a different item than disambiguation pages"}
+{"entity1": "胡姬花", "relation": "parent taxon", "entity2": "兰目"}
+{"entity1": "古船", "relation": "language of work or name", "entity2": "汉语"}
+{"entity1": "grapa", "relation": "genomic end", "entity2": "Danio rerio chromosome 3"}
+{"entity1": "T33", "relation": "operator", "entity2": "哥伦比亚"}
+{"entity1": "水果硬糖", "relation": "followed by", "entity2": "四分鐘"}
+{"entity1": "西服", "relation": "topic's main category", "entity2": "Category:西裝"}
+{"entity1": "玩偶", "relation": "topic's main category", "entity2": "Category:玩偶"}
+{"entity1": "蔚然", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "美岸", "relation": "country", "entity2": "菲律宾"}
+{"entity1": "锈斑豹猫", "relation": "parent taxon", "entity2": "豹貓屬"}
+{"entity1": "金冢子镇", "relation": "located in time zone", "entity2": "UTC+8"}
+{"entity1": "亚诺", "relation": "given name", "entity2": "Malcolm"}
+{"entity1": "克莱门特", "relation": "said to be the same as", "entity2": "Clemente"}
+{"entity1": "胡姬花", "relation": "parent taxon", "entity2": "Gynandrae"}
+{"entity1": "古船", "relation": "narrative location", "entity2": "中华人民共和国"}
+{"entity1": "grapa", "relation": "ortholog", "entity2": "GRAP"}
+{"entity1": "T33", "relation": "operator", "entity2": "丹麦"}
+{"entity1": "水果硬糖", "relation": "followed by", "entity2": "娜經典"}
+{"entity1": "浪凡", "relation": "instance of", "entity2": "商标"}
+{"entity1": "罗蒙", "relation": "instance of", "entity2": "法国市镇"}
+{"entity1": "冷焰火", "relation": "part of", "entity2": "烟火制造术"}
+{"entity1": "礼花", "relation": "subclass of", "entity2": "激發光"}
+{"entity1": "红烛", "relation": "instance of", "entity2": "图书"}
+{"entity1": "高哥", "relation": "instance of", "entity2": "group of Greek mythical characters"}
+{"entity1": "AIR", "relation": "subclass of", "entity2": "美國行政區劃"}
+{"entity1": "升元", "relation": "instance of", "entity2": "年号"}
+{"entity1": "西服", "relation": "described by source", "entity2": "A Dictionary of Costume and Fashion: Historic and Modern"}
+{"entity1": "玩偶", "relation": "described by source", "entity2": "亚美尼亚苏维埃百科全书"}
+{"entity1": "蔚然", "relation": "owned by", "entity2": "太古地產"}
+{"entity1": "美岸", "relation": "capital of", "entity2": "南伊羅戈省"}
+{"entity1": "锈斑豹猫", "relation": "IUCN conservation status", "entity2": "近危物种"}
+{"entity1": "亚诺", "relation": "family name", "entity2": "Arnold"}
+{"entity1": "克莱门特", "relation": "said to be the same as", "entity2": "Climent"}
+{"entity1": "胡姬花", "relation": "parent taxon", "entity2": "Microspermae"}
+{"entity1": "grapa", "relation": "ortholog", "entity2": "智人"}
+{"entity1": "T33", "relation": "operator", "entity2": "萨尔瓦多"}
+{"entity1": "浪凡", "relation": "instance of", "entity2": "企业"}
+{"entity1": "罗蒙", "relation": "country", "entity2": "法国"}
+{"entity1": "冷焰火", "relation": "part of", "entity2": "pyrotechnical machine"}
+{"entity1": "礼花", "relation": "part of", "entity2": "事件"}
+{"entity1": "高哥", "relation": "subclass of", "entity2": "希腊海神"}
+{"entity1": "AIR", "relation": "subclass of", "entity2": "native land"}
+{"entity1": "玩偶", "relation": "said to be the same as", "entity2": "活動軍人模型"}
+{"entity1": "蔚然", "relation": "architectural style", "entity2": "现代主义建筑"}
+{"entity1": "美岸", "relation": "located in the administrative territorial entity", "entity2": "南伊羅戈省"}
+{"entity1": "亚诺", "relation": "place of birth", "entity2": "北安普顿"}
+{"entity1": "胡姬花", "relation": "has fruit type", "entity2": "蒴果"}
+{"entity1": "grapa", "relation": "ortholog", "entity2": "Grap"}
+{"entity1": "T33", "relation": "operator", "entity2": "法国"}
+{"entity1": "知味观", "relation": "instance of", "entity2": "企业"}
+{"entity1": "王光", "relation": "instance of", "entity2": "人類"}
+{"entity1": "越光米", "relation": "instance of", "entity2": "栽培品种"}
+{"entity1": "五湖", "relation": "country", "entity2": "中華民國"}
+{"entity1": "沁州", "relation": "instance of", "entity2": "州"}
+{"entity1": "小肥羊", "relation": "instance of", "entity2": "企业"}
+{"entity1": "浪凡", "relation": "founded by", "entity2": "Jeanne Lanvin"}
+{"entity1": "罗蒙", "relation": "located in the administrative territorial entity", "entity2": "canton of Rambervillers"}
+{"entity1": "礼花", "relation": "use", "entity2": "fireworks event"}
+{"entity1": "高哥", "relation": "subclass of", "entity2": "混合生物 (傳說生物)"}
+{"entity1": "AIR", "relation": "topic's main category", "entity2": "Category:American Indian reservations"}
+{"entity1": "美岸", "relation": "diocese", "entity2": "天主教新塞哥维亚总教区"}
+{"entity1": "亚诺", "relation": "place of death", "entity2": "诺福克郡"}
+{"entity1": "胡姬花", "relation": "has fruit type", "entity2": "浆果"}
+{"entity1": "grapa", "relation": "ortholog", "entity2": "小家鼠"}
+{"entity1": "T33", "relation": "operator", "entity2": "德国"}
+{"entity1": "王光", "relation": "manner of death", "entity2": "自殺"}
+{"entity1": "越光米", "relation": "instance of", "entity2": "粳稻"}
+{"entity1": "沁州", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "小肥羊", "relation": "headquarters location", "entity2": "包头市"}
+{"entity1": "浪凡", "relation": "headquarters location", "entity2": "巴黎"}
+{"entity1": "罗蒙", "relation": "located in the administrative territorial entity", "entity2": "孚日省"}
+{"entity1": "礼花", "relation": "Twitter hashtag", "entity2": "法语"}
+{"entity1": "高哥", "relation": "has part", "entity2": "尤琉蕾"}
+{"entity1": "美岸", "relation": "office held by head of government", "entity2": "市长"}
+{"entity1": "亚诺", "relation": "languages spoken, written or signed", "entity2": "英语"}
+{"entity1": "胡姬花", "relation": "studied by", "entity2": "orchidology"}
+{"entity1": "grapa", "relation": "ortholog", "entity2": "Grap"}
+{"entity1": "T33", "relation": "use", "entity2": "advanced trainer"}
+{"entity1": "越光米", "relation": "taxon rank", "entity2": "栽培品种"}
+{"entity1": "浪凡", "relation": "headquarters location", "entity2": "法国"}
+{"entity1": "罗蒙", "relation": "located in the administrative territorial entity", "entity2": "埃皮纳勒区"}
+{"entity1": "礼花", "relation": "topic's main category", "entity2": "Category:烟花"}
+{"entity1": "高哥", "relation": "has part", "entity2": "毒蛇"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "occupation", "entity2": "作曲家"}
+{"entity1": "胡姬花", "relation": "topic's main category", "entity2": "Category:兰科"}
+{"entity1": "grapa", "relation": "ortholog", "entity2": "褐鼠"}
+{"entity1": "越光米", "relation": "country of origin", "entity2": "日本"}
+{"entity1": "罗蒙", "relation": "located in time zone", "entity2": "UTC+01:00"}
+{"entity1": "高哥", "relation": "has part", "entity2": "毛髮"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "occupation", "entity2": "trumpeter"}
+{"entity1": "罗蒙", "relation": "located in time zone", "entity2": "標準時間"}
+{"entity1": "高哥", "relation": "has part", "entity2": "Greek deity"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "occupation", "entity2": "指挥家"}
+{"entity1": "罗蒙", "relation": "located in time zone", "entity2": "UTC+2"}
+{"entity1": "高哥", "relation": "has part", "entity2": "希腊海神"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "occupation", "entity2": "jazz musician"}
+{"entity1": "罗蒙", "relation": "located in time zone", "entity2": "夏时制"}
+{"entity1": "高哥", "relation": "has part", "entity2": "斯忒諾"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "occupation", "entity2": "film score composer"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "比尔"}
+{"entity1": "高哥", "relation": "has part", "entity2": "美杜莎"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "genre", "entity2": "交響曲"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "阿尔当库尔"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "award received", "entity2": "大英帝國司令勳章"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "穆瓦埃蒙"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "award received", "entity2": "Academy Award for Best Score, Adaptation or Treatment"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "帕杜"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "award received", "entity2": "桂河大桥"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "朗贝尔维莱尔"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "award received", "entity2": "第30屆奧斯卡金像獎"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "罗维尔奥谢纳"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "nominated for", "entity2": "Academy Award for Best Score, Adaptation or Treatment"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "莫尔塔涅河畔圣莫里塞"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "nominated for", "entity2": "桂河大桥"}
+{"entity1": "罗蒙", "relation": "shares border with", "entity2": "沃梅库尔"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "nominated for", "entity2": "第30屆奧斯卡金像獎"}
+{"entity1": "美岸", "relation": "population", "entity2": "人口普查"}
+{"entity1": "亚诺", "relation": "educated at", "entity2": "皇家音乐学院"}
+{"entity1": "美岸", "relation": "located in time zone", "entity2": "UTC+8"}
+{"entity1": "亚诺", "relation": "instrument", "entity2": "小號"}
+{"entity1": "美岸", "relation": "income classification (Philippines)", "entity2": "4th city income class"}
+{"entity1": "亚诺", "relation": "notable work", "entity2": "Symphony No. 4"}
+{"entity1": "康贝", "relation": "instance of", "entity2": "法国市镇"}
+{"entity1": "好孩子", "relation": "instance of", "entity2": "雙人搭檔"}
+{"entity1": "贝亲", "relation": "instance of", "entity2": "企业"}
+{"entity1": "天和", "relation": "instance of", "entity2": "日本年號"}
+{"entity1": "史瑞克", "relation": "instance of", "entity2": "animated feature film"}
+{"entity1": "箭牌", "relation": "instance of", "entity2": "企业"}
+{"entity1": "帝皇", "relation": "instance of", "entity2": "贵族等级"}
+{"entity1": "螺髻山", "relation": "instance of", "entity2": "山脉"}
+{"entity1": "美岸", "relation": "sister city", "entity2": "檀香山市縣"}
+{"entity1": "康贝", "relation": "country", "entity2": "法国"}
+{"entity1": "贝亲", "relation": "stock exchange", "entity2": "東京證券交易所"}
+{"entity1": "史瑞克", "relation": "based on", "entity2": "史力加！"}
+{"entity1": "箭牌", "relation": "part of", "entity2": "瑪氏食品"}
+{"entity1": "帝皇", "relation": "subclass of", "entity2": "君主"}
+{"entity1": "螺髻山", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "美岸", "relation": "shares border with", "entity2": "仙沓"}
+{"entity1": "小矮人", "relation": "instance of", "entity2": "文学原型"}
+{"entity1": "汤臣倍健", "relation": "instance of", "entity2": "公司"}
+{"entity1": "蒂芬妮", "relation": "instance of", "entity2": "女性人名"}
+{"entity1": "太太", "relation": "instance of", "entity2": "姻親"}
+{"entity1": "雷允上", "relation": "instance of", "entity2": "企业"}
+{"entity1": "胡庆余堂", "relation": "instance of", "entity2": "企业"}
+{"entity1": "鸿德堂", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "正官庄", "relation": "instance of", "entity2": "品牌"}
+{"entity1": "康贝", "relation": "located in the administrative territorial entity", "entity2": "克里昂 (法國)"}
+{"entity1": "史瑞克", "relation": "series", "entity2": "DreamWorks Animation feature films"}
+{"entity1": "箭牌", "relation": "industry", "entity2": "食品产业"}
+{"entity1": "帝皇", "relation": "topic's main category", "entity2": "Category:皇帝"}
+{"entity1": "美岸", "relation": "shares border with", "entity2": "聖卡塔利娜"}
+{"entity1": "小矮人", "relation": "topic's main category", "entity2": "Category:小人 (傳說生物)"}
+{"entity1": "汤臣倍健", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "蒂芬妮", "relation": "significant event", "entity2": "frequency of first names in the Netherlands, 2010"}
+{"entity1": "太太", "relation": "subclass of", "entity2": "配偶"}
+{"entity1": "胡庆余堂", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "鸿德堂", "relation": "heritage designation", "entity2": "上海市优秀历史建筑"}
+{"entity1": "正官庄", "relation": "instance of", "entity2": "商标"}
+{"entity1": "康贝", "relation": "located in the administrative territorial entity", "entity2": "吉倫特省"}
+{"entity1": "史瑞克", "relation": "series", "entity2": "咪走雞"}
+{"entity1": "箭牌", "relation": "founded by", "entity2": "William Wrigley"}
+{"entity1": "帝皇", "relation": "described by source", "entity2": "亚美尼亚苏维埃百科全书"}
+{"entity1": "美岸", "relation": "shares border with", "entity2": "班泰"}
+{"entity1": "蜜月", "relation": "topic's main category", "entity2": "Category:Slavic traditions"}
+{"entity1": "DNZ", "relation": "instance of", "entity2": "機場"}
+{"entity1": "印度奶茶", "relation": "instance of", "entity2": "茶"}
+{"entity1": "香飘飘", "relation": "instance of", "entity2": "歌曲"}
+{"entity1": "娃哈哈", "relation": "instance of", "entity2": "企业"}
+{"entity1": "G7", "relation": "instance of", "entity2": "跨政府机构"}
+{"entity1": "汤臣倍健", "relation": "stock exchange", "entity2": "深圳证券交易所"}
+{"entity1": "蒂芬妮", "relation": "writing system", "entity2": "拉丁文字"}
+{"entity1": "太太", "relation": "subclass of", "entity2": "女人"}
+{"entity1": "胡庆余堂", "relation": "catalog code", "entity2": "第三批全国重点文物保护单位"}
+{"entity1": "正官庄", "relation": "manufacturer", "entity2": "韓國人蔘公社"}
+{"entity1": "康贝", "relation": "located in the administrative territorial entity", "entity2": "波尔多区"}
+{"entity1": "史瑞克", "relation": "series", "entity2": "小马王"}
+{"entity1": "箭牌", "relation": "leader", "entity2": "William Wrigley, Jr. II"}
+{"entity1": "帝皇", "relation": "described by source", "entity2": "Otto's encyclopedia"}
+{"entity1": "美岸", "relation": "shares border with", "entity2": "Caoayan"}
+{"entity1": "DNZ", "relation": "named after", "entity2": "Çardak"}
+{"entity1": "印度奶茶", "relation": "subclass of", "entity2": "奶茶"}
+{"entity1": "娃哈哈", "relation": "headquarters location", "entity2": "杭州市"}
+{"entity1": "G7", "relation": "instance of", "entity2": "heptad"}
+{"entity1": "蒂芬妮", "relation": "family name identical to this given name", "entity2": "Tiffany"}
+{"entity1": "太太", "relation": "part of", "entity2": "夫婦"}
+{"entity1": "胡庆余堂", "relation": "heritage designation", "entity2": "全国重点文物保护单位"}
+{"entity1": "康贝", "relation": "located in time zone", "entity2": "UTC+01:00"}
+{"entity1": "史瑞克", "relation": "genre", "entity2": "動作片"}
+{"entity1": "箭牌", "relation": "country", "entity2": "德国"}
+{"entity1": "美岸", "relation": "heritage designation", "entity2": "世界遗产"}
+{"entity1": "港式奶茶", "relation": "subclass of", "entity2": "奶茶"}
+{"entity1": "米香型白酒", "relation": "subclass of", "entity2": "白酒"}
+{"entity1": "圣山", "relation": "instance of", "entity2": "市区"}
+{"entity1": "小企鹅", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "萨拉斯", "relation": "instance of", "entity2": "concejo of Asturias"}
+{"entity1": "温莎", "relation": "instance of", "entity2": "分割行政區"}
+{"entity1": "巴斯蒂", "relation": "instance of", "entity2": "district of India"}
+{"entity1": "博隆", "relation": "instance of", "entity2": "法国市镇"}
+{"entity1": "DNZ", "relation": "country", "entity2": "土耳其"}
+{"entity1": "印度奶茶", "relation": "material used", "entity2": "红茶"}
+{"entity1": "娃哈哈", "relation": "headquarters location", "entity2": "中华人民共和国"}
+{"entity1": "G7", "relation": "subclass of", "entity2": "Group of major economic countries"}
+{"entity1": "蒂芬妮", "relation": "different from", "entity2": "Tiffany"}
+{"entity1": "太太", "relation": "has quality", "entity2": "女性"}
+{"entity1": "康贝", "relation": "located in time zone", "entity2": "標準時間"}
+{"entity1": "史瑞克", "relation": "genre", "entity2": "奇幻电影"}
+{"entity1": "箭牌", "relation": "country", "entity2": "美国"}
+{"entity1": "美岸", "relation": "Köppen climate classification", "entity2": "热带季风气候"}
+{"entity1": "米香型白酒", "relation": "country of origin", "entity2": "中华人民共和国"}
+{"entity1": "圣山", "relation": "country", "entity2": "西班牙"}
+{"entity1": "小企鹅", "relation": "taxon name", "entity2": "約翰·雷茵霍爾德·福斯特"}
+{"entity1": "萨拉斯", "relation": "country", "entity2": "西班牙"}
+{"entity1": "温莎", "relation": "instance of", "entity2": "單層自治區"}
+{"entity1": "巴斯蒂", "relation": "instance of", "entity2": "二级行政区"}
+{"entity1": "博隆", "relation": "country", "entity2": "法国"}
+{"entity1": "DNZ", "relation": "located in the administrative territorial entity", "entity2": "Çardak"}
+{"entity1": "印度奶茶", "relation": "material used", "entity2": "奶类"}
+{"entity1": "G7", "relation": "replaced by", "entity2": "八大工業國組織"}
+{"entity1": "蒂芬妮", "relation": "different from", "entity2": "given name has to use a different item than disambiguation pages"}
+{"entity1": "太太", "relation": "opposite of", "entity2": "丈夫"}
+{"entity1": "康贝", "relation": "located in time zone", "entity2": "UTC+2"}
+{"entity1": "史瑞克", "relation": "genre", "entity2": "搭檔片"}
+{"entity1": "箭牌", "relation": "location of formation", "entity2": "芝加哥"}
+{"entity1": "美岸", "relation": "topic's main category", "entity2": "Category:Vigan"}
+{"entity1": "安娜", "relation": "instance of", "entity2": "女性人名"}
+{"entity1": "真露", "relation": "instance of", "entity2": "企业"}
+{"entity1": "五缘湾", "relation": "instance of", "entity2": "海灣"}
+{"entity1": "尊尼获加", "relation": "instance of", "entity2": "商标"}
+{"entity1": "芝华士", "relation": "instance of", "entity2": "商标"}
+{"entity1": "西凤酒", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "牛栏山", "relation": "instance of", "entity2": "維基媒體消歧義頁"}
+{"entity1": "五粮液", "relation": "instance of", "entity2": "企业"}
+{"entity1": "小企鹅", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "萨拉斯", "relation": "located in the administrative territorial entity", "entity2": "Asturias"}
+{"entity1": "温莎", "relation": "instance of", "entity2": "城市"}
+{"entity1": "巴斯蒂", "relation": "country", "entity2": "印度"}
+{"entity1": "博隆", "relation": "located in the administrative territorial entity", "entity2": "canton of Guichen"}
+{"entity1": "DNZ", "relation": "place served by transport hub", "entity2": "Çardak"}
+{"entity1": "印度奶茶", "relation": "material used", "entity2": "香辛料"}
+{"entity1": "G7", "relation": "replaces", "entity2": "G6"}
+{"entity1": "太太", "relation": "opposite of", "entity2": "性別二元"}
+{"entity1": "康贝", "relation": "located in time zone", "entity2": "夏时制"}
+{"entity1": "史瑞克", "relation": "genre", "entity2": "劇場版"}
+{"entity1": "箭牌", "relation": "owned by", "entity2": "瑪氏食品"}
+{"entity1": "美岸", "relation": "World Heritage criteria", "entity2": "(ii)"}
+{"entity1": "安娜", "relation": "language of work or name", "entity2": "加泰罗尼亚语"}
+{"entity1": "真露", "relation": "parent organization", "entity2": "HiteJinro Holdings"}
+{"entity1": "尊尼获加", "relation": "instance of", "entity2": "蘇格蘭威士忌"}
+{"entity1": "芝华士", "relation": "country of origin", "entity2": "蘇格蘭"}
+{"entity1": "五粮液", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "小企鹅", "relation": "parent taxon", "entity2": "Eudyptula"}
+{"entity1": "萨拉斯", "relation": "office held by head of government", "entity2": "mayor of Salas"}
+{"entity1": "温莎", "relation": "country", "entity2": "加拿大"}
+{"entity1": "巴斯蒂", "relation": "capital", "entity2": "巴斯蒂"}
+{"entity1": "博隆", "relation": "located in the administrative territorial entity", "entity2": "雷东区"}
+{"entity1": "G7", "relation": "participant", "entity2": "加拿大"}
+{"entity1": "康贝", "relation": "shares border with", "entity2": "康布拉内和梅纳克"}
+{"entity1": "史瑞克", "relation": "country of origin", "entity2": "美国"}
+{"entity1": "箭牌", "relation": "parent organization", "entity2": "瑪氏食品"}
+{"entity1": "美岸", "relation": "World Heritage criteria", "entity2": "(iv)"}
+{"entity1": "特基拉", "relation": "instance of", "entity2": "镇"}
+{"entity1": "水井坊", "relation": "instance of", "entity2": "公司"}
+{"entity1": "乾隆下江南", "relation": "instance of", "entity2": "年号"}
+{"entity1": "卡慕", "relation": "instance of", "entity2": "企业"}
+{"entity1": "泸州老窖特曲", "relation": "instance of", "entity2": "企业"}
+{"entity1": "今世缘", "relation": "instance of", "entity2": "上市公司"}
+{"entity1": "绝对伏特加", "relation": "instance of", "entity2": "商标"}
+{"entity1": "景芝", "relation": "instance of", "entity2": "維基媒體消歧義頁"}
+{"entity1": "安娜", "relation": "language of work or name", "entity2": "捷克语"}
+{"entity1": "真露", "relation": "headquarters location", "entity2": "瑞草洞"}
+{"entity1": "尊尼获加", "relation": "founded by", "entity2": "John Walker"}
+{"entity1": "芝华士", "relation": "owned by", "entity2": "保乐利加"}
+{"entity1": "五粮液", "relation": "headquarters location", "entity2": "宜宾市"}
+{"entity1": "小企鹅", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "萨拉斯", "relation": "head of government", "entity2": "Sergio Hidalgo Alonso"}
+{"entity1": "温莎", "relation": "capital of", "entity2": "艾塞克斯縣"}
+{"entity1": "巴斯蒂", "relation": "located in the administrative territorial entity", "entity2": "北方邦"}
+{"entity1": "博隆", "relation": "located in the administrative territorial entity", "entity2": "伊勒-维莱讷省"}
+{"entity1": "G7", "relation": "participant", "entity2": "法国"}
+{"entity1": "康贝", "relation": "shares border with", "entity2": "伊斯尔圣若尔热"}
+{"entity1": "史瑞克", "relation": "original language of work", "entity2": "英语"}
+{"entity1": "箭牌", "relation": "headquarters location", "entity2": "芝加哥"}
+{"entity1": "特基拉", "relation": "country", "entity2": "墨西哥"}
+{"entity1": "水井坊", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "卡慕", "relation": "headquarters location", "entity2": "干邑"}
+{"entity1": "泸州老窖特曲", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "今世缘", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "安娜", "relation": "language of work or name", "entity2": "希伯来语"}
+{"entity1": "尊尼获加", "relation": "country", "entity2": "英国"}
+{"entity1": "芝华士", "relation": "headquarters location", "entity2": "阿伯丁"}
+{"entity1": "五粮液", "relation": "stock exchange", "entity2": "深圳证券交易所"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "located in the administrative territorial entity", "entity2": "艾塞克斯縣"}
+{"entity1": "巴斯蒂", "relation": "located in time zone", "entity2": "UTC+5:30"}
+{"entity1": "博隆", "relation": "head of government", "entity2": "René Chesnais"}
+{"entity1": "G7", "relation": "participant", "entity2": "德国"}
+{"entity1": "康贝", "relation": "shares border with", "entity2": "博雷克"}
+{"entity1": "史瑞克", "relation": "publication date", "entity2": "德国"}
+{"entity1": "箭牌", "relation": "topic's main category", "entity2": "Category:Wrigley Company"}
+{"entity1": "杰克丹尼", "relation": "instance of", "entity2": "企业"}
+{"entity1": "皇家礼炮", "relation": "instance of", "entity2": "饮料"}
+{"entity1": "百加得", "relation": "instance of", "entity2": "企业"}
+{"entity1": "八达岭", "relation": "instance of", "entity2": "人类聚居地"}
+{"entity1": "山茶油", "relation": "subclass of", "entity2": "食用油"}
+{"entity1": "老同志", "relation": "instance of", "entity2": "歌曲"}
+{"entity1": "旺达", "relation": "instance of", "entity2": "法国市镇"}
+{"entity1": "特基拉", "relation": "located in the administrative territorial entity", "entity2": "Tequila Municipality"}
+{"entity1": "水井坊", "relation": "stock exchange", "entity2": "上海证券交易所"}
+{"entity1": "泸州老窖特曲", "relation": "headquarters location", "entity2": "泸州市"}
+{"entity1": "今世缘", "relation": "stock exchange", "entity2": "上海证券交易所"}
+{"entity1": "安娜", "relation": "language of work or name", "entity2": "拉脱维亚语"}
+{"entity1": "尊尼获加", "relation": "located in the administrative territorial entity", "entity2": "蘇格蘭"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "head of government", "entity2": "Drew Dilkens"}
+{"entity1": "巴斯蒂", "relation": "shares border with", "entity2": "錫達特那加爾縣"}
+{"entity1": "博隆", "relation": "located in time zone", "entity2": "UTC+01:00"}
+{"entity1": "G7", "relation": "participant", "entity2": "意大利"}
+{"entity1": "康贝", "relation": "shares border with", "entity2": "屈安萨克"}
+{"entity1": "史瑞克", "relation": "director", "entity2": "安德魯·亞當森"}
+{"entity1": "杰克丹尼", "relation": "instance of", "entity2": "whisky distillery"}
+{"entity1": "皇家礼炮", "relation": "country of origin", "entity2": "蘇格蘭"}
+{"entity1": "百加得", "relation": "industry", "entity2": "酒"}
+{"entity1": "八达岭", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "老同志", "relation": "composer", "entity2": "Carl Teike"}
+{"entity1": "旺达", "relation": "country", "entity2": "法国"}
+{"entity1": "特基拉", "relation": "sister city", "entity2": "皮斯科"}
+{"entity1": "泸州老窖特曲", "relation": "stock exchange", "entity2": "深圳证券交易所"}
+{"entity1": "安娜", "relation": "significant event", "entity2": "most frequent first names at birth in Rotterdam (1811-1913)"}
+{"entity1": "尊尼获加", "relation": "located in time zone", "entity2": "UTC±0"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "located in time zone", "entity2": "北美东部时区"}
+{"entity1": "巴斯蒂", "relation": "topic's main category", "entity2": "Category:Basti district"}
+{"entity1": "博隆", "relation": "located in time zone", "entity2": "標準時間"}
+{"entity1": "G7", "relation": "participant", "entity2": "日本"}
+{"entity1": "康贝", "relation": "shares border with", "entity2": "圣卡普赖德博尔多"}
+{"entity1": "史瑞克", "relation": "director", "entity2": "维基·詹森"}
+{"entity1": "博根", "relation": "instance of", "entity2": "市镇"}
+{"entity1": "博士茶", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "林湖", "relation": "instance of", "entity2": "人類"}
+{"entity1": "皇家山", "relation": "instance of", "entity2": "丘"}
+{"entity1": "美心", "relation": "instance of", "entity2": "人類"}
+{"entity1": "森林家族", "relation": "instance of", "entity2": "電視節目系列"}
+{"entity1": "东阿阿胶", "relation": "instance of", "entity2": "企业"}
+{"entity1": "张志明", "relation": "instance of", "entity2": "人類"}
+{"entity1": "杰克丹尼", "relation": "named after", "entity2": "Jack Daniel"}
+{"entity1": "百加得", "relation": "founded by", "entity2": "Facundo Bacardi"}
+{"entity1": "八达岭", "relation": "catalog code", "entity2": "第一批全国重点文物保护单位"}
+{"entity1": "旺达", "relation": "located in the administrative territorial entity", "entity2": "canton of Bellerive-sur-Allier"}
+{"entity1": "安娜", "relation": "significant event", "entity2": "frequency of first names in the Netherlands, 2010"}
+{"entity1": "尊尼获加", "relation": "owned by", "entity2": "帝亞吉歐"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "曼海姆"}
+{"entity1": "博隆", "relation": "located in time zone", "entity2": "UTC+2"}
+{"entity1": "G7", "relation": "participant", "entity2": "英国"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "泰德·艾略特"}
+{"entity1": "博根", "relation": "short name", "entity2": "location identifier part of a library identifier code"}
+{"entity1": "博士茶", "relation": "taxon name", "entity2": "Rolf Dahlgren"}
+{"entity1": "林湖", "relation": "sex or gender", "entity2": "男性"}
+{"entity1": "皇家山", "relation": "instance of", "entity2": "山"}
+{"entity1": "美心", "relation": "sex or gender", "entity2": "女性"}
+{"entity1": "森林家族", "relation": "genre", "entity2": "空氣系"}
+{"entity1": "东阿阿胶", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "张志明", "relation": "family name", "entity2": "張"}
+{"entity1": "杰克丹尼", "relation": "founded by", "entity2": "Jack Daniel"}
+{"entity1": "百加得", "relation": "location of formation", "entity2": "圣地亚哥-德古巴"}
+{"entity1": "八达岭", "relation": "heritage designation", "entity2": "全国重点文物保护单位"}
+{"entity1": "旺达", "relation": "located in the administrative territorial entity", "entity2": "阿列省"}
+{"entity1": "安娜", "relation": "writing system", "entity2": "拉丁文字"}
+{"entity1": "尊尼获加", "relation": "manufacturer", "entity2": "帝亞吉歐"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "格兰比"}
+{"entity1": "博隆", "relation": "located in time zone", "entity2": "夏时制"}
+{"entity1": "G7", "relation": "participant", "entity2": "美国"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "泰瑞·羅西奧"}
+{"entity1": "苏伯", "relation": "instance of", "entity2": "人類"}
+{"entity1": "品客", "relation": "instance of", "entity2": "商标"}
+{"entity1": "喜羊羊与灰太狼", "relation": "instance of", "entity2": "电视节目"}
+{"entity1": "大昌", "relation": "instance of", "entity2": "朝鮮半島年號列表"}
+{"entity1": "春日井", "relation": "instance of", "entity2": "姓氏"}
+{"entity1": "博根", "relation": "country", "entity2": "德国"}
+{"entity1": "博士茶", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "林湖", "relation": "country of citizenship", "entity2": "大韩民国"}
+{"entity1": "皇家山", "relation": "named after", "entity2": "弗朗索瓦一世"}
+{"entity1": "美心", "relation": "country of citizenship", "entity2": "越南"}
+{"entity1": "东阿阿胶", "relation": "headquarters location", "entity2": "东阿县"}
+{"entity1": "杰克丹尼", "relation": "country", "entity2": "美国"}
+{"entity1": "百加得", "relation": "headquarters location", "entity2": "哈密尔顿"}
+{"entity1": "旺达", "relation": "located in the administrative territorial entity", "entity2": "canton of Escurolles"}
+{"entity1": "安娜", "relation": "pronunciation audio", "entity2": "波兰语"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "萨尔蒂约"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "圣蒂里阿"}
+{"entity1": "G7", "relation": "topic's main category", "entity2": "Category:G7"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "乔·斯蒂尔曼"}
+{"entity1": "品客", "relation": "subclass of", "entity2": "馬鈴薯片"}
+{"entity1": "喜羊羊与灰太狼", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "春日井", "relation": "language of work or name", "entity2": "日语"}
+{"entity1": "博根", "relation": "located in the administrative territorial entity", "entity2": "施特劳宾-博根县"}
+{"entity1": "博士茶", "relation": "parent taxon", "entity2": "Aspalathus"}
+{"entity1": "林湖", "relation": "family name", "entity2": "임"}
+{"entity1": "皇家山", "relation": "continent", "entity2": "美洲"}
+{"entity1": "美心", "relation": "place of birth", "entity2": "岘港市"}
+{"entity1": "东阿阿胶", "relation": "stock exchange", "entity2": "深圳证券交易所"}
+{"entity1": "杰克丹尼", "relation": "country of origin", "entity2": "美国"}
+{"entity1": "百加得", "relation": "legal form", "entity2": "私人股份有限責任公司"}
+{"entity1": "旺达", "relation": "located in the administrative territorial entity", "entity2": "维希区"}
+{"entity1": "安娜", "relation": "IPA transcription", "entity2": "波兰语"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "圣艾蒂安"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "Bovel"}
+{"entity1": "G7", "relation": "different from", "entity2": "八大工業國組織"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "羅傑·舒爾曼"}
+{"entity1": "出前一丁", "relation": "instance of", "entity2": "即食麵"}
+{"entity1": "秦和", "relation": "instance of", "entity2": "人類"}
+{"entity1": "陶陶居", "relation": "instance of", "entity2": "中式餐館"}
+{"entity1": "JAK", "relation": "instance of", "entity2": "機場"}
+{"entity1": "伯爵", "relation": "instance of", "entity2": "贵族等级"}
+{"entity1": "GALA", "relation": "instance of", "entity2": "糖类"}
+{"entity1": "福寿街", "relation": "instance of", "entity2": "維基媒體消歧義頁"}
+{"entity1": "海南冷水花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "品客", "relation": "country", "entity2": "美国"}
+{"entity1": "喜羊羊与灰太狼", "relation": "country of origin", "entity2": "中华人民共和国"}
+{"entity1": "春日井", "relation": "writing system", "entity2": "日本汉字"}
+{"entity1": "博根", "relation": "archives at", "entity2": "Stadtarchiv Bogen"}
+{"entity1": "博士茶", "relation": "basionym", "entity2": "Psoralea linearis"}
+{"entity1": "林湖", "relation": "place of birth", "entity2": "首爾"}
+{"entity1": "皇家山", "relation": "country", "entity2": "加拿大"}
+{"entity1": "美心", "relation": "occupation", "entity2": "歌手"}
+{"entity1": "杰克丹尼", "relation": "location of formation", "entity2": "Lynchburg"}
+{"entity1": "百加得", "relation": "topic's main category", "entity2": "Category:Bacardi"}
+{"entity1": "旺达", "relation": "located in time zone", "entity2": "UTC+01:00"}
+{"entity1": "安娜", "relation": "name day", "entity2": "7月26日"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "奥赫里德"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "布雷阿苏蒙特福尔"}
+{"entity1": "G7", "relation": "STW Thesaurus for Economics ID", "entity2": "exact match"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "威廉·史泰格"}
+{"entity1": "陶陶居", "relation": "country", "entity2": "中华人民共和国"}
+{"entity1": "JAK", "relation": "named after", "entity2": "雅克梅勒"}
+{"entity1": "伯爵", "relation": "subclass of", "entity2": "hereditary title"}
+{"entity1": "GALA", "relation": "instance of", "entity2": "基因"}
+{"entity1": "海南冷水花", "relation": "taxon name", "entity2": "Franklin Post Metcalf"}
+{"entity1": "品客", "relation": "owned by", "entity2": "凯洛格公司"}
+{"entity1": "喜羊羊与灰太狼", "relation": "topic's main category", "entity2": "Category:Pleasant Goat and Big Big Wolf"}
+{"entity1": "春日井", "relation": "different from", "entity2": "Kasugai"}
+{"entity1": "博根", "relation": "population", "entity2": "人口普查"}
+{"entity1": "博士茶", "relation": "endemic to", "entity2": "南非"}
+{"entity1": "林湖", "relation": "languages spoken, written or signed", "entity2": "朝鲜语"}
+{"entity1": "皇家山", "relation": "located in the administrative territorial entity", "entity2": "蒙特利尔"}
+{"entity1": "美心", "relation": "occupation", "entity2": "音樂家"}
+{"entity1": "杰克丹尼", "relation": "owned by", "entity2": "布朗霍文"}
+{"entity1": "旺达", "relation": "located in time zone", "entity2": "標準時間"}
+{"entity1": "安娜", "relation": "name day", "entity2": "挪威"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "卢布林"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "拉沙佩勒布厄克西克"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "克里斯·米勒"}
+{"entity1": "少花柏拉木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大叶决明", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "细柄蕈树", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "长苞菖蒲", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "畦畔莎草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "苏门答腊萝芙木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "盘花垂头菊", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "柱冠粗榧", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "陶陶居", "relation": "located in the administrative territorial entity", "entity2": "廣州市"}
+{"entity1": "JAK", "relation": "country", "entity2": "海地"}
+{"entity1": "伯爵", "relation": "topic's main category", "entity2": "Category:伯爵"}
+{"entity1": "GALA", "relation": "subclass of", "entity2": "蛋白质编码基因"}
+{"entity1": "海南冷水花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "品客", "relation": "has part", "entity2": "马铃薯"}
+{"entity1": "春日井", "relation": "different from", "entity2": "family name has to use a different item than disambiguation pages"}
+{"entity1": "博根", "relation": "population", "entity2": "人口普查"}
+{"entity1": "林湖", "relation": "occupation", "entity2": "演員"}
+{"entity1": "皇家山", "relation": "located in the administrative territorial entity", "entity2": "魁北克"}
+{"entity1": "美心", "relation": "occupation", "entity2": "演員"}
+{"entity1": "杰克丹尼", "relation": "parent organization", "entity2": "布朗霍文"}
+{"entity1": "旺达", "relation": "located in time zone", "entity2": "UTC+2"}
+{"entity1": "安娜", "relation": "name day", "entity2": "12月9日"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "考文垂"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "戈旺"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "寇蒂·卡梅隆"}
+{"entity1": "少花柏拉木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "大叶决明", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "细柄蕈树", "relation": "taxon name", "entity2": "威廉·博廷·赫姆斯利"}
+{"entity1": "长苞菖蒲", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "畦畔莎草", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "苏门答腊萝芙木", "relation": "taxon name", "entity2": "威廉·杰克"}
+{"entity1": "盘花垂头菊", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "柱冠粗榧", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "JAK", "relation": "location", "entity2": "雅克梅勒"}
+{"entity1": "伯爵", "relation": "said to be the same as", "entity2": "graf"}
+{"entity1": "GALA", "relation": "found in taxon", "entity2": "智人"}
+{"entity1": "海南冷水花", "relation": "parent taxon", "entity2": "冷水花属"}
+{"entity1": "品客", "relation": "Facebook profile ID", "entity2": "德语"}
+{"entity1": "春日井", "relation": "said to be the same as", "entity2": "Kasugai"}
+{"entity1": "博根", "relation": "population", "entity2": "人口普查"}
+{"entity1": "林湖", "relation": "occupation", "entity2": "电影演员"}
+{"entity1": "皇家山", "relation": "material used", "entity2": "火成岩"}
+{"entity1": "美心", "relation": "genre", "entity2": "流行搖滾"}
+{"entity1": "杰克丹尼", "relation": "headquarters location", "entity2": "Lynchburg"}
+{"entity1": "旺达", "relation": "located in time zone", "entity2": "夏时制"}
+{"entity1": "安娜", "relation": "name day", "entity2": "瑞典"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "藤澤市"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "吉盖恩"}
+{"entity1": "史瑞克", "relation": "screenwriter", "entity2": "康瑞德·弗寧"}
+{"entity1": "异果崖豆藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "疏花石斛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "鹿斑鲾", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "玫瑰石斛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "密鳞紫金牛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "栎叶槲蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "阔叶山麦冬", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "云南鸟足兰", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "少花柏拉木", "relation": "parent taxon", "entity2": "柏拉木属"}
+{"entity1": "大叶决明", "relation": "parent taxon", "entity2": "决明属"}
+{"entity1": "细柄蕈树", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "长苞菖蒲", "relation": "parent taxon", "entity2": "菖蒲科"}
+{"entity1": "畦畔莎草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "苏门答腊萝芙木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "盘花垂头菊", "relation": "parent taxon", "entity2": "垂头菊属"}
+{"entity1": "柱冠粗榧", "relation": "parent taxon", "entity2": "三尖杉属"}
+{"entity1": "JAK", "relation": "place served by transport hub", "entity2": "雅克梅勒"}
+{"entity1": "GALA", "relation": "encodes", "entity2": "Galactosidase alpha"}
+{"entity1": "春日井", "relation": "said to be the same as", "entity2": "假名"}
+{"entity1": "博根", "relation": "population", "entity2": "人口普查"}
+{"entity1": "林湖", "relation": "blood type", "entity2": "A"}
+{"entity1": "皇家山", "relation": "topic's main category", "entity2": "Category:Mount Royal"}
+{"entity1": "美心", "relation": "educated at", "entity2": "胡志明市音樂學院"}
+{"entity1": "杰克丹尼", "relation": "legal form", "entity2": "股份有限公司"}
+{"entity1": "旺达", "relation": "shares border with", "entity2": "布鲁韦尔内"}
+{"entity1": "安娜", "relation": "name day", "entity2": "7月26日"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "长春市"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "拉西"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "麥克·邁爾斯"}
+{"entity1": "疏花石斛", "relation": "taxon name", "entity2": "鲁道夫·施莱希特"}
+{"entity1": "玫瑰石斛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "密鳞紫金牛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "栎叶槲蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "阔叶山麦冬", "relation": "taxon name", "entity2": "Liberty Hyde Bailey"}
+{"entity1": "云南鸟足兰", "relation": "taxon name", "entity2": "Robert Allen Rolfe"}
+{"entity1": "少花柏拉木", "relation": "basionym", "entity2": "Allomorphia pauciflora"}
+{"entity1": "大叶决明", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "细柄蕈树", "relation": "parent taxon", "entity2": "蕈树属"}
+{"entity1": "畦畔莎草", "relation": "parent taxon", "entity2": "莎草属"}
+{"entity1": "苏门答腊萝芙木", "relation": "parent taxon", "entity2": "萝芙木属"}
+{"entity1": "柱冠粗榧", "relation": "taxon synonym", "entity2": "Cephalotaxus drupacea"}
+{"entity1": "GALA", "relation": "chromosome", "entity2": "human X chromosome"}
+{"entity1": "春日井", "relation": "said to be the same as", "entity2": "Kasui"}
+{"entity1": "博根", "relation": "population", "entity2": "人口普查"}
+{"entity1": "皇家山", "relation": "mountain range", "entity2": "Monteregian Hills"}
+{"entity1": "美心", "relation": "instrument", "entity2": "吉他"}
+{"entity1": "杰克丹尼", "relation": "manufacturer", "entity2": "布朗霍文"}
+{"entity1": "旺达", "relation": "shares border with", "entity2": "沙尔梅勒"}
+{"entity1": "安娜", "relation": "name day", "entity2": "捷克"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "拉斯布埃爾塔斯"}
+{"entity1": "博隆", "relation": "shares border with", "entity2": "马克桑"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "史力加"}
+{"entity1": "剑叶石斛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "假木通", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黄花石斛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黑毛石斛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "光叶密花豆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "甘肃山麦冬", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "红血藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "长柱沙参", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "疏花石斛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "玫瑰石斛", "relation": "parent taxon", "entity2": "石斛蘭屬"}
+{"entity1": "密鳞紫金牛", "relation": "parent taxon", "entity2": "紫金牛属"}
+{"entity1": "栎叶槲蕨", "relation": "parent taxon", "entity2": "Drynaria"}
+{"entity1": "阔叶山麦冬", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "云南鸟足兰", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "大叶决明", "relation": "subject has role", "entity2": "Senna fruticosa"}
+{"entity1": "细柄蕈树", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "畦畔莎草", "relation": "has fruit type", "entity2": "nucule"}
+{"entity1": "柱冠粗榧", "relation": "basionym", "entity2": "Taxus harringtonii"}
+{"entity1": "GALA", "relation": "chromosome", "entity2": "Genome assembly GRCh38"}
+{"entity1": "春日井", "relation": "said to be the same as", "entity2": "日本汉字"}
+{"entity1": "博根", "relation": "number of houses", "entity2": "人口普查"}
+{"entity1": "美心", "relation": "instrument", "entity2": "钢琴"}
+{"entity1": "杰克丹尼", "relation": "heritage designation", "entity2": "place listed on the National Register of Historic Places"}
+{"entity1": "旺达", "relation": "shares border with", "entity2": "埃斯皮纳斯沃泽尔"}
+{"entity1": "安娜", "relation": "name day", "entity2": "7月26日"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "烏迪內"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "艾迪·墨菲"}
+{"entity1": "剑叶石斛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "假木通", "relation": "taxon name", "entity2": "蒋英"}
+{"entity1": "黄花石斛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黑毛石斛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "光叶密花豆", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "甘肃山麦冬", "relation": "taxon name", "entity2": "Charles Henry Wright"}
+{"entity1": "红血藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "长柱沙参", "relation": "taxon name", "entity2": "Masao Kitagawa"}
+{"entity1": "疏花石斛", "relation": "parent taxon", "entity2": "石斛蘭屬"}
+{"entity1": "栎叶槲蕨", "relation": "basionym", "entity2": "Polypodium quercifolium"}
+{"entity1": "阔叶山麦冬", "relation": "parent taxon", "entity2": "山麥冬屬"}
+{"entity1": "云南鸟足兰", "relation": "parent taxon", "entity2": "鸟足兰属"}
+{"entity1": "细柄蕈树", "relation": "subject has role", "entity2": "Liquidambar gracilipes"}
+{"entity1": "柱冠粗榧", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "GALA", "relation": "chromosome", "entity2": "Genome assembly GRCh37"}
+{"entity1": "博根", "relation": "located in time zone", "entity2": "UTC+01:00"}
+{"entity1": "美心", "relation": "instrument", "entity2": "笛"}
+{"entity1": "旺达", "relation": "shares border with", "entity2": "圣蓬"}
+{"entity1": "安娜", "relation": "name day", "entity2": "拉脫維亞"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "奥隆阿波"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "驢友 (史瑞克)"}
+{"entity1": "齿瓣石斛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "川滇槲蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "串珠石斛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "槽茎锥花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "白首乌", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小顶冰花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "槭叶草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "香豆蔻", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "剑叶石斛", "relation": "parent taxon", "entity2": "石斛蘭屬"}
+{"entity1": "假木通", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄花石斛", "relation": "parent taxon", "entity2": "石斛蘭屬"}
+{"entity1": "黑毛石斛", "relation": "parent taxon", "entity2": "石斛蘭屬"}
+{"entity1": "光叶密花豆", "relation": "parent taxon", "entity2": "密花豆属"}
+{"entity1": "甘肃山麦冬", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "红血藤", "relation": "parent taxon", "entity2": "密花豆属"}
+{"entity1": "长柱沙参", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "阔叶山麦冬", "relation": "basionym", "entity2": "Ophiopogon muscari"}
+{"entity1": "GALA", "relation": "strand orientation", "entity2": "Reverse Strand"}
+{"entity1": "博根", "relation": "located in time zone", "entity2": "標準時間"}
+{"entity1": "美心", "relation": "discography", "entity2": "My Tam discography"}
+{"entity1": "旺达", "relation": "shares border with", "entity2": "罗拉地区圣雷米"}
+{"entity1": "安娜", "relation": "family name identical to this given name", "entity2": "Anna"}
+{"entity1": "萨拉斯", "relation": "population", "entity2": "register office"}
+{"entity1": "温莎", "relation": "sister city", "entity2": "群山市"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "卡麥蓉·狄亞"}
+{"entity1": "齿瓣石斛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "川滇槲蕨", "relation": "taxon name", "entity2": "Konrad H. Christ"}
+{"entity1": "串珠石斛", "relation": "taxon name", "entity2": "威廉·杰克逊·胡克"}
+{"entity1": "槽茎锥花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "白首乌", "relation": "taxon name", "entity2": "Joseph Decaisne"}
+{"entity1": "小顶冰花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "槭叶草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "香豆蔻", "relation": "taxon name", "entity2": "威廉·罗克斯堡"}
+{"entity1": "假木通", "relation": "parent taxon", "entity2": "黑鳗藤属"}
+{"entity1": "甘肃山麦冬", "relation": "parent taxon", "entity2": "山麥冬屬"}
+{"entity1": "长柱沙参", "relation": "parent taxon", "entity2": "沙参属"}
+{"entity1": "GALA", "relation": "strand orientation", "entity2": "Genome assembly GRCh38"}
+{"entity1": "博根", "relation": "located in time zone", "entity2": "UTC+2"}
+{"entity1": "美心", "relation": "topic's main category", "entity2": "Category:My Tam"}
+{"entity1": "安娜", "relation": "family name identical to this given name", "entity2": "Anna"}
+{"entity1": "萨拉斯", "relation": "located in time zone", "entity2": "UTC+01:00"}
+{"entity1": "温莎", "relation": "shares border with", "entity2": "底特律"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "費安娜公主"}
+{"entity1": "太白贝母", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "喜马拉雅虎耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "五花紫金牛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "泰山前胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "香港算盘子", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "通脉丹", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "康定贝母", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "毛果杜鹃", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "齿瓣石斛", "relation": "parent taxon", "entity2": "石斛蘭屬"}
+{"entity1": "川滇槲蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "串珠石斛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "槽茎锥花", "relation": "parent taxon", "entity2": "锥花属"}
+{"entity1": "白首乌", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "小顶冰花", "relation": "parent taxon", "entity2": "顶冰花属"}
+{"entity1": "槭叶草", "relation": "parent taxon", "entity2": "槭叶草属"}
+{"entity1": "香豆蔻", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "假木通", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "甘肃山麦冬", "relation": "basionym", "entity2": "Ophiopogon kansuensis"}
+{"entity1": "长柱沙参", "relation": "basionym", "entity2": "Campanula stenanthina"}
+{"entity1": "GALA", "relation": "strand orientation", "entity2": "Genome assembly GRCh37"}
+{"entity1": "博根", "relation": "located in time zone", "entity2": "夏时制"}
+{"entity1": "安娜", "relation": "different from", "entity2": "安娜"}
+{"entity1": "萨拉斯", "relation": "shares border with", "entity2": "格拉多"}
+{"entity1": "温莎", "relation": "shares border with", "entity2": "River Rouge"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "约翰·利思戈"}
+{"entity1": "太白贝母", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "喜马拉雅虎耳草", "relation": "taxon name", "entity2": "Nicolas Charles Seringe"}
+{"entity1": "五花紫金牛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "泰山前胡", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "香港算盘子", "relation": "taxon name", "entity2": "Adrien-Henri de Jussieu"}
+{"entity1": "通脉丹", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "毛果杜鹃", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "川滇槲蕨", "relation": "parent taxon", "entity2": "Drynaria"}
+{"entity1": "串珠石斛", "relation": "parent taxon", "entity2": "石斛蘭屬"}
+{"entity1": "白首乌", "relation": "parent taxon", "entity2": "白前属"}
+{"entity1": "槭叶草", "relation": "basionym", "entity2": "Saxifraga rossii"}
+{"entity1": "香豆蔻", "relation": "parent taxon", "entity2": "豆蔻属"}
+{"entity1": "假木通", "relation": "subject has role", "entity2": "Jasminanthes chunii"}
+{"entity1": "GALA", "relation": "genomic start", "entity2": "human X chromosome"}
+{"entity1": "博根", "relation": "sister city", "entity2": "阿尔科"}
+{"entity1": "安娜", "relation": "different from", "entity2": "given name has to use a different item than disambiguation pages"}
+{"entity1": "萨拉斯", "relation": "shares border with", "entity2": "坎达莫"}
+{"entity1": "温莎", "relation": "shares border with", "entity2": "埃科斯"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "凡松·卡塞"}
+{"entity1": "米贝母", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "湖北贝母", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "光枝勾儿茶", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "垂花青兰", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "白鹤藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "川西火绒草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "长前胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "斑果藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "太白贝母", "relation": "parent taxon", "entity2": "贝母属"}
+{"entity1": "喜马拉雅虎耳草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "五花紫金牛", "relation": "parent taxon", "entity2": "紫金牛属"}
+{"entity1": "泰山前胡", "relation": "parent taxon", "entity2": "前胡属"}
+{"entity1": "香港算盘子", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "通脉丹", "relation": "parent taxon", "entity2": "娃儿藤属"}
+{"entity1": "毛果杜鹃", "relation": "parent taxon", "entity2": "杜鵑花屬"}
+{"entity1": "假木通", "relation": "subject has role", "entity2": "Marsdenia chunii"}
+{"entity1": "GALA", "relation": "genomic start", "entity2": "Genome assembly GRCh38"}
+{"entity1": "博根", "relation": "sister city", "entity2": "阿尔泰德贝阿尔恩"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Ana"}
+{"entity1": "萨拉斯", "relation": "shares border with", "entity2": "贝尔蒙特德米兰达"}
+{"entity1": "温莎", "relation": "shares border with", "entity2": "Grosse Pointe Park"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "金·卡明思"}
+{"entity1": "米贝母", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "湖北贝母", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "垂花青兰", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "白鹤藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "川西火绒草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "长前胡", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "斑果藤", "relation": "taxon name", "entity2": "Jean Baptiste Louis Pierre"}
+{"entity1": "喜马拉雅虎耳草", "relation": "parent taxon", "entity2": "虎耳草属"}
+{"entity1": "泰山前胡", "relation": "basionym", "entity2": "Seseli wawrae"}
+{"entity1": "香港算盘子", "relation": "parent taxon", "entity2": "算盘子属"}
+{"entity1": "GALA", "relation": "genomic start", "entity2": "human X chromosome"}
+{"entity1": "博根", "relation": "sister city", "entity2": "绍滕"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Annette"}
+{"entity1": "萨拉斯", "relation": "shares border with", "entity2": "蒂内奥"}
+{"entity1": "温莎", "relation": "shares border with", "entity2": "LaSalle"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "克里斯·米勒"}
+{"entity1": "笔罗子", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大叶凤仙花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "阿尔泰多榔菊", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "紫茎泽兰", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "子宫草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "獐耳细辛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "远志木蓝", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "细罗伞", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "米贝母", "relation": "parent taxon", "entity2": "贝母属"}
+{"entity1": "湖北贝母", "relation": "parent taxon", "entity2": "贝母属"}
+{"entity1": "垂花青兰", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "白鹤藤", "relation": "parent taxon", "entity2": "白鹤藤属"}
+{"entity1": "川西火绒草", "relation": "parent taxon", "entity2": "火絨草屬"}
+{"entity1": "长前胡", "relation": "parent taxon", "entity2": "前胡属"}
+{"entity1": "斑果藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "GALA", "relation": "genomic start", "entity2": "Genome assembly GRCh37"}
+{"entity1": "博根", "relation": "sister city", "entity2": "威爾赫林"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Ann"}
+{"entity1": "萨拉斯", "relation": "shares border with", "entity2": "巴尔德斯"}
+{"entity1": "温莎", "relation": "shares border with", "entity2": "Tecumseh"}
+{"entity1": "史瑞克", "relation": "voice actor", "entity2": "康瑞德·弗寧"}
+{"entity1": "笔罗子", "relation": "taxon name", "entity2": "菲利普·弗蘭茲·馮·西博爾德"}
+{"entity1": "大叶凤仙花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "阿尔泰多榔菊", "relation": "taxon name", "entity2": "彼得·西蒙·帕拉斯"}
+{"entity1": "紫茎泽兰", "relation": "taxon name", "entity2": "Robert Merrill King"}
+{"entity1": "子宫草", "relation": "taxon name", "entity2": "吳征鎰"}
+{"entity1": "远志木蓝", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "细罗伞", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "垂花青兰", "relation": "parent taxon", "entity2": "青兰属"}
+{"entity1": "斑果藤", "relation": "parent taxon", "entity2": "罗志藤属"}
+{"entity1": "GALA", "relation": "genomic end", "entity2": "human X chromosome"}
+{"entity1": "博根", "relation": "number of households", "entity2": "人口普查"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Ganna"}
+{"entity1": "萨拉斯", "relation": "shares border with", "entity2": "库迪列罗"}
+{"entity1": "温莎", "relation": "flag", "entity2": "flag of Windsor, Ontario"}
+{"entity1": "史瑞克", "relation": "film editor", "entity2": "Sim Evan-Jones"}
+{"entity1": "尾囊草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "螳螂跌打", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "舌瓣鼠尾草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "三叶藤橘", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "蓬子菜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "密花美登木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "栗色鼠尾草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "尖叶五匹青", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "笔罗子", "relation": "taxon name", "entity2": "约瑟夫·格哈德·楚卡里尼"}
+{"entity1": "大叶凤仙花", "relation": "parent taxon", "entity2": "凤仙花属"}
+{"entity1": "阿尔泰多榔菊", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "紫茎泽兰", "relation": "taxon name", "entity2": "Harold E. Robinson"}
+{"entity1": "子宫草", "relation": "taxon name", "entity2": "李锡文"}
+{"entity1": "远志木蓝", "relation": "parent taxon", "entity2": "槐蓝属"}
+{"entity1": "细罗伞", "relation": "parent taxon", "entity2": "紫金牛属"}
+{"entity1": "垂花青兰", "relation": "has fruit type", "entity2": "nucule"}
+{"entity1": "GALA", "relation": "genomic end", "entity2": "Genome assembly GRCh38"}
+{"entity1": "博根", "relation": "topic's main category", "entity2": "Category:Bogen"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Hanna"}
+{"entity1": "萨拉斯", "relation": "shares border with", "entity2": "普拉维亚"}
+{"entity1": "温莎", "relation": "topic's main category", "entity2": "Category:Windsor, Ontario"}
+{"entity1": "史瑞克", "relation": "film editor", "entity2": "Michael Andrews"}
+{"entity1": "尾囊草", "relation": "taxon name", "entity2": "Oskar Eberhard Ulbrich"}
+{"entity1": "螳螂跌打", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "舌瓣鼠尾草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "三叶藤橘", "relation": "taxon name", "entity2": "罗伯特·怀特"}
+{"entity1": "蓬子菜", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "密花美登木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "栗色鼠尾草", "relation": "taxon name", "entity2": "路德维希·迪尔斯"}
+{"entity1": "笔罗子", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "阿尔泰多榔菊", "relation": "parent taxon", "entity2": "多榔菊属"}
+{"entity1": "紫茎泽兰", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "子宫草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "GALA", "relation": "genomic end", "entity2": "human X chromosome"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anya"}
+{"entity1": "温莎", "relation": "category of associated people", "entity2": "Category:People from Windsor, Ontario"}
+{"entity1": "史瑞克", "relation": "film editor", "entity2": "克里斯多夫·奈茨"}
+{"entity1": "华西雨蛙", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黄背草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "华西忍冬", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大果忍冬", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大托叶猪屎豆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "洱源鼠尾草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "短刺变豆菜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "波缘楤木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "尾囊草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "螳螂跌打", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "舌瓣鼠尾草", "relation": "parent taxon", "entity2": "鼠尾草属"}
+{"entity1": "三叶藤橘", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "蓬子菜", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "密花美登木", "relation": "parent taxon", "entity2": "美登木属"}
+{"entity1": "栗色鼠尾草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "笔罗子", "relation": "parent taxon", "entity2": "泡花树属"}
+{"entity1": "紫茎泽兰", "relation": "parent taxon", "entity2": "Ageratina"}
+{"entity1": "子宫草", "relation": "parent taxon", "entity2": "龙老根属"}
+{"entity1": "GALA", "relation": "genomic end", "entity2": "Genome assembly GRCh37"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anne"}
+{"entity1": "温莎", "relation": "category for people who died here", "entity2": "Category:Deaths in Windsor"}
+{"entity1": "史瑞克", "relation": "costume designer", "entity2": "Isis Mussenden"}
+{"entity1": "华西雨蛙", "relation": "taxon name", "entity2": "Thomas C. Jerdon"}
+{"entity1": "黄背草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "华西忍冬", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "大果忍冬", "relation": "taxon name", "entity2": "Henry Collett"}
+{"entity1": "大托叶猪屎豆", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "洱源鼠尾草", "relation": "taxon name", "entity2": "吳征鎰"}
+{"entity1": "波缘楤木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "尾囊草", "relation": "parent taxon", "entity2": "尾囊草属"}
+{"entity1": "螳螂跌打", "relation": "parent taxon", "entity2": "石柑属"}
+{"entity1": "三叶藤橘", "relation": "parent taxon", "entity2": "三叶藤橘属"}
+{"entity1": "蓬子菜", "relation": "parent taxon", "entity2": "拉拉藤属"}
+{"entity1": "栗色鼠尾草", "relation": "parent taxon", "entity2": "鼠尾草属"}
+{"entity1": "紫茎泽兰", "relation": "basionym", "entity2": "Eupatorium adenophorum"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "Gla"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anaïs"}
+{"entity1": "温莎", "relation": "described by source", "entity2": "Great Soviet Encyclopedia (1926—1947)"}
+{"entity1": "史瑞克", "relation": "composer", "entity2": "約翰·包威爾"}
+{"entity1": "止血马唐", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "柄果槲寄生", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "支柱蓼", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "远志黄堇", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "兖州卷柏", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "羽叶三七", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "匙萼柏拉木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "同形鳞毛蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "华西雨蛙", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄背草", "relation": "parent taxon", "entity2": "菅属"}
+{"entity1": "华西忍冬", "relation": "parent taxon", "entity2": "忍冬属"}
+{"entity1": "大果忍冬", "relation": "taxon name", "entity2": "威廉·博廷·赫姆斯利"}
+{"entity1": "大托叶猪屎豆", "relation": "parent taxon", "entity2": "豬屎豆屬"}
+{"entity1": "洱源鼠尾草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "波缘楤木", "relation": "parent taxon", "entity2": "楤木属"}
+{"entity1": "尾囊草", "relation": "basionym", "entity2": "Isopyrum henryi"}
+{"entity1": "三叶藤橘", "relation": "basionym", "entity2": "Limonia scandens"}
+{"entity1": "蓬子菜", "relation": "topic's main category", "entity2": "Category:拉拉藤属"}
+{"entity1": "紫茎泽兰", "relation": "has fruit type", "entity2": "胞果"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "小家鼠"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anett"}
+{"entity1": "史瑞克", "relation": "composer", "entity2": "哈利·葛瑞森-威廉斯"}
+{"entity1": "止血马唐", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "柄果槲寄生", "relation": "taxon name", "entity2": "早田文藏"}
+{"entity1": "支柱蓼", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "远志黄堇", "relation": "taxon name", "entity2": "约瑟夫·道尔顿·胡克"}
+{"entity1": "兖州卷柏", "relation": "taxon name", "entity2": "Antoine Spring"}
+{"entity1": "匙萼柏拉木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "同形鳞毛蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "华西雨蛙", "relation": "parent taxon", "entity2": "雨蛙属"}
+{"entity1": "大果忍冬", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "洱源鼠尾草", "relation": "parent taxon", "entity2": "鼠尾草属"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "Gla"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Annetta"}
+{"entity1": "史瑞克", "relation": "producer", "entity2": "杰弗瑞·卡森伯格"}
+{"entity1": "苏门白酒草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "山地香茶菜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "球柱草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "毛稔", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "鳞片水麻", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "宽叶母草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "九味一枝蒿", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "姬蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "止血马唐", "relation": "parent taxon", "entity2": "马唐属"}
+{"entity1": "柄果槲寄生", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "支柱蓼", "relation": "parent taxon", "entity2": "蓼属"}
+{"entity1": "远志黄堇", "relation": "taxon name", "entity2": "Thomas Thomson"}
+{"entity1": "兖州卷柏", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "匙萼柏拉木", "relation": "parent taxon", "entity2": "柏拉木属"}
+{"entity1": "同形鳞毛蕨", "relation": "parent taxon", "entity2": "鳞毛蕨属"}
+{"entity1": "华西雨蛙", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "大果忍冬", "relation": "parent taxon", "entity2": "忍冬属"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "褐鼠"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Ania"}
+{"entity1": "史瑞克", "relation": "producer", "entity2": "阿伦·沃纳"}
+{"entity1": "苏门白酒草", "relation": "taxon name", "entity2": "Egbert Hamilton Walker"}
+{"entity1": "山地香茶菜", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "球柱草", "relation": "taxon name", "entity2": "查尔斯·拜伦·克拉克"}
+{"entity1": "毛稔", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "鳞片水麻", "relation": "taxon name", "entity2": "George King"}
+{"entity1": "宽叶母草", "relation": "taxon name", "entity2": "Richard Wettstein"}
+{"entity1": "九味一枝蒿", "relation": "taxon name", "entity2": "乔治·边沁"}
+{"entity1": "姬蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "止血马唐", "relation": "basionym", "entity2": "Panicum ischaemum"}
+{"entity1": "柄果槲寄生", "relation": "parent taxon", "entity2": "槲寄生属"}
+{"entity1": "远志黄堇", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "兖州卷柏", "relation": "parent taxon", "entity2": "卷柏"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "CG7997"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "指小"}
+{"entity1": "史瑞克", "relation": "producer", "entity2": "John H. Williams"}
+{"entity1": "胶质鼠尾草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "华东膜蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "旱生卷柏", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黑顶卷柏", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "湖北地黄", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "穇穗莎草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "多裂独活", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大翅蓟", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "苏门白酒草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "山地香茶菜", "relation": "parent taxon", "entity2": "香茶菜属"}
+{"entity1": "球柱草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "毛稔", "relation": "taxon rank", "entity2": "属"}
+{"entity1": "鳞片水麻", "relation": "taxon name", "entity2": "威廉·杰克逊·胡克"}
+{"entity1": "宽叶母草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "九味一枝蒿", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "姬蕨", "relation": "parent taxon", "entity2": "Hypolepis"}
+{"entity1": "柄果槲寄生", "relation": "basionym", "entity2": "Viscum orientale var. multinerve"}
+{"entity1": "远志黄堇", "relation": "parent taxon", "entity2": "紫堇属"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "黑腹果蝇"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "波兰语"}
+{"entity1": "史瑞克", "relation": "production company", "entity2": "梦工厂"}
+{"entity1": "胶质鼠尾草", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "华东膜蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "旱生卷柏", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黑顶卷柏", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "湖北地黄", "relation": "taxon name", "entity2": "尼古拉斯·爱德华·布朗"}
+{"entity1": "穇穗莎草", "relation": "taxon name", "entity2": "卡尔·西吉斯蒙德·孔茨"}
+{"entity1": "多裂独活", "relation": "taxon name", "entity2": "Kun Tsun Fu"}
+{"entity1": "大翅蓟", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "苏门白酒草", "relation": "parent taxon", "entity2": "假蓬属"}
+{"entity1": "球柱草", "relation": "parent taxon", "entity2": "球柱草属"}
+{"entity1": "毛稔", "relation": "parent taxon", "entity2": "野牡丹科"}
+{"entity1": "鳞片水麻", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "宽叶母草", "relation": "parent taxon", "entity2": "母草属"}
+{"entity1": "九味一枝蒿", "relation": "parent taxon", "entity2": "筋骨草属"}
+{"entity1": "姬蕨", "relation": "basionym", "entity2": "Polypodium punctatum"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "gla"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Annaig"}
+{"entity1": "史瑞克", "relation": "production company", "entity2": "太平洋數位影像公司"}
+{"entity1": "草甸碎米荠", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大叶茜草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "川藏蒿", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "城口瓶蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "野梧桐", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中甸山楂", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小叶石梓", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "逍遥馒头蟹", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "胶质鼠尾草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "华东膜蕨", "relation": "parent taxon", "entity2": "Hymenophyllum"}
+{"entity1": "旱生卷柏", "relation": "parent taxon", "entity2": "卷柏"}
+{"entity1": "黑顶卷柏", "relation": "parent taxon", "entity2": "卷柏"}
+{"entity1": "湖北地黄", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "穇穗莎草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "多裂独活", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "大翅蓟", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "苏门白酒草", "relation": "basionym", "entity2": "Erigeron sumatrensis"}
+{"entity1": "球柱草", "relation": "basionym", "entity2": "Scirpus barbatus"}
+{"entity1": "毛稔", "relation": "topic's main category", "entity2": "Category:野牡丹属"}
+{"entity1": "鳞片水麻", "relation": "parent taxon", "entity2": "水麻属"}
+{"entity1": "宽叶母草", "relation": "basionym", "entity2": "Vandellia nummularifolia"}
+{"entity1": "GALA", "relation": "ortholog", "entity2": "斑馬魚"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anna"}
+{"entity1": "史瑞克", "relation": "production company", "entity2": "梦工厂动画"}
+{"entity1": "草甸碎米荠", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "大叶茜草", "relation": "taxon name", "entity2": "Ernst Georg Pritzel"}
+{"entity1": "川藏蒿", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "城口瓶蕨", "relation": "taxon name", "entity2": "秦仁昌"}
+{"entity1": "野梧桐", "relation": "taxon name", "entity2": "约翰内斯·穆勒·阿古菲恩斯"}
+{"entity1": "中甸山楂", "relation": "taxon name", "entity2": "William Wright Smith"}
+{"entity1": "小叶石梓", "relation": "taxon name", "entity2": "Paul Louis Amans Dop"}
+{"entity1": "逍遥馒头蟹", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "胶质鼠尾草", "relation": "parent taxon", "entity2": "鼠尾草属"}
+{"entity1": "华东膜蕨", "relation": "basionym", "entity2": "Leptocionium barbatum"}
+{"entity1": "湖北地黄", "relation": "parent taxon", "entity2": "地黄属"}
+{"entity1": "穇穗莎草", "relation": "parent taxon", "entity2": "莎草属"}
+{"entity1": "多裂独活", "relation": "parent taxon", "entity2": "独活属"}
+{"entity1": "大翅蓟", "relation": "parent taxon", "entity2": "大翅蓟属"}
+{"entity1": "宽叶母草", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Hannah"}
+{"entity1": "史瑞克", "relation": "distributor", "entity2": "UIP-Dunafilm"}
+{"entity1": "帽儿瓜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "全叶延胡索", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "海南砂仁", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "甘松", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "江南地不容", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "姜味草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "短柄苹婆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "鄂报春", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "草甸碎米荠", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "大叶茜草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "川藏蒿", "relation": "parent taxon", "entity2": "蒿属"}
+{"entity1": "城口瓶蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "野梧桐", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "中甸山楂", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "小叶石梓", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "逍遥馒头蟹", "relation": "parent taxon", "entity2": "Calappa"}
+{"entity1": "胶质鼠尾草", "relation": "has fruit type", "entity2": "nucule"}
+{"entity1": "穇穗莎草", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Aneta"}
+{"entity1": "史瑞克", "relation": "distributor", "entity2": "匈牙利"}
+{"entity1": "帽儿瓜", "relation": "taxon name", "entity2": "Max Joseph Roemer"}
+{"entity1": "全叶延胡索", "relation": "taxon name", "entity2": "Karl Mandl"}
+{"entity1": "海南砂仁", "relation": "taxon name", "entity2": "Te-Lin Wu"}
+{"entity1": "甘松", "relation": "taxon name", "entity2": "Alexander Theodorowicz Batalin"}
+{"entity1": "江南地不容", "relation": "taxon name", "entity2": "罗献瑞"}
+{"entity1": "姜味草", "relation": "taxon name", "entity2": "乔治·边沁"}
+{"entity1": "短柄苹婆", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "草甸碎米荠", "relation": "parent taxon", "entity2": "碎米荠属"}
+{"entity1": "大叶茜草", "relation": "parent taxon", "entity2": "茜草属"}
+{"entity1": "城口瓶蕨", "relation": "parent taxon", "entity2": "Vandenboschia"}
+{"entity1": "野梧桐", "relation": "parent taxon", "entity2": "野桐属"}
+{"entity1": "中甸山楂", "relation": "parent taxon", "entity2": "山楂"}
+{"entity1": "小叶石梓", "relation": "parent taxon", "entity2": "石梓属"}
+{"entity1": "穇穗莎草", "relation": "subject has role", "entity2": "Cyperus nutans var. eleusinoides"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anette"}
+{"entity1": "史瑞克", "relation": "after a work by", "entity2": "威廉·史泰格"}
+{"entity1": "母丁香", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "云南香花藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中华双扇蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "禺毛茛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "越南巴豆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "贴生石韦", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小舌紫菀", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "狭叶海金沙", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "帽儿瓜", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "全叶延胡索", "relation": "taxon name", "entity2": "Anton Muehldorf"}
+{"entity1": "海南砂仁", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "甘松", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "江南地不容", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "姜味草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "短柄苹婆", "relation": "parent taxon", "entity2": "蘋婆屬"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Annett"}
+{"entity1": "史瑞克", "relation": "aspect ratio", "entity2": "1.85:1"}
+{"entity1": "母丁香", "relation": "subclass of", "entity2": "常绿植物"}
+{"entity1": "云南香花藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "中华双扇蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "禺毛茛", "relation": "taxon name", "entity2": "奥古斯丁·彼拉姆斯·德堪多"}
+{"entity1": "越南巴豆", "relation": "taxon name", "entity2": "François Gagnepain"}
+{"entity1": "贴生石韦", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "小舌紫菀", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "狭叶海金沙", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "帽儿瓜", "relation": "parent taxon", "entity2": "红钮子属"}
+{"entity1": "全叶延胡索", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "海南砂仁", "relation": "parent taxon", "entity2": "豆蔻属"}
+{"entity1": "甘松", "relation": "parent taxon", "entity2": "甘松香属"}
+{"entity1": "江南地不容", "relation": "parent taxon", "entity2": "千金藤属"}
+{"entity1": "姜味草", "relation": "parent taxon", "entity2": "姜味草属"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anja"}
+{"entity1": "史瑞克", "relation": "color", "entity2": "彩色"}
+{"entity1": "水葫芦苗", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "疏松卷柏", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "钮子瓜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "柔软石韦", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "美丽胡枝子", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "麻疯树", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "毛叶欧李", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "宽瓣金莲花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "母丁香", "relation": "taxon name", "entity2": "埃尔默·德鲁·美林"}
+{"entity1": "云南香花藤", "relation": "parent taxon", "entity2": "香花藤属"}
+{"entity1": "中华双扇蕨", "relation": "parent taxon", "entity2": "Dipteris"}
+{"entity1": "禺毛茛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "越南巴豆", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "贴生石韦", "relation": "parent taxon", "entity2": "Pyrrosia"}
+{"entity1": "小舌紫菀", "relation": "parent taxon", "entity2": "紫菀屬"}
+{"entity1": "狭叶海金沙", "relation": "parent taxon", "entity2": "海金沙屬"}
+{"entity1": "帽儿瓜", "relation": "basionym", "entity2": "Cucumis maderaspatanus"}
+{"entity1": "全叶延胡索", "relation": "parent taxon", "entity2": "紫堇属"}
+{"entity1": "海南砂仁", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "姜味草", "relation": "basionym", "entity2": "Thymus biflorus"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Hana"}
+{"entity1": "史瑞克", "relation": "award received", "entity2": "奧斯卡最佳動畫片獎"}
+{"entity1": "水葫芦苗", "relation": "taxon name", "entity2": "Frederick Traugott Pursh"}
+{"entity1": "疏松卷柏", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "钮子瓜", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "柔软石韦", "relation": "taxon name", "entity2": "Peter Hans Hovenkamp"}
+{"entity1": "美丽胡枝子", "relation": "taxon name", "entity2": "Bernhard Adalbert Emil Koehne"}
+{"entity1": "麻疯树", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "毛叶欧李", "relation": "taxon name", "entity2": "Josef Ludwig Holub"}
+{"entity1": "宽瓣金莲花", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "母丁香", "relation": "taxon name", "entity2": "Lily May Perry"}
+{"entity1": "禺毛茛", "relation": "parent taxon", "entity2": "毛茛属"}
+{"entity1": "越南巴豆", "relation": "parent taxon", "entity2": "巴豆属"}
+{"entity1": "贴生石韦", "relation": "basionym", "entity2": "Polypodium adnascens"}
+{"entity1": "安娜", "relation": "said to be the same as", "entity2": "Anete"}
+{"entity1": "史瑞克", "relation": "award received", "entity2": "第74屆奧斯卡金像獎"}
+{"entity1": "庐山石韦", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "裂叶秋海棠", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "尖槐藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "聚叶虎耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "江南星蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "海州蒿", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黄花蝴蝶草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "海南蕊木", "relation": "instance of", "entity2": "维基媒体重复页面"}
+{"entity1": "水葫芦苗", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "疏松卷柏", "relation": "parent taxon", "entity2": "卷柏"}
+{"entity1": "钮子瓜", "relation": "parent taxon", "entity2": "老鼠拉冬瓜属"}
+{"entity1": "柔软石韦", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "美丽胡枝子", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "麻疯树", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "毛叶欧李", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "宽瓣金莲花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "母丁香", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "史瑞克", "relation": "award received", "entity2": "阿伦·沃纳"}
+{"entity1": "庐山石韦", "relation": "taxon name", "entity2": "秦仁昌"}
+{"entity1": "裂叶秋海棠", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "尖槐藤", "relation": "taxon name", "entity2": "詹姆斯·爱德华·史密斯"}
+{"entity1": "聚叶虎耳草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "江南星蕨", "relation": "taxon name", "entity2": "秦仁昌"}
+{"entity1": "海州蒿", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄花蝴蝶草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "海南蕊木", "relation": "instance of", "entity2": "云南蕊木"}
+{"entity1": "水葫芦苗", "relation": "parent taxon", "entity2": "毛茛属"}
+{"entity1": "钮子瓜", "relation": "basionym", "entity2": "Bryonia maysorensis"}
+{"entity1": "柔软石韦", "relation": "parent taxon", "entity2": "Pyrrosia"}
+{"entity1": "美丽胡枝子", "relation": "parent taxon", "entity2": "胡枝子属"}
+{"entity1": "麻疯树", "relation": "parent taxon", "entity2": "麻疯树属"}
+{"entity1": "毛叶欧李", "relation": "parent taxon", "entity2": "Cerasus"}
+{"entity1": "宽瓣金莲花", "relation": "parent taxon", "entity2": "金蓮花屬"}
+{"entity1": "母丁香", "relation": "parent taxon", "entity2": "蒲桃属"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "奧斯卡最佳改編劇本獎"}
+{"entity1": "黑足金粉蕨", "relation": "instance of", "entity2": "不合法名"}
+{"entity1": "海南海金沙", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "高原点地梅", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "广东金钱草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "单花鸢尾", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "粗毛鳞盖蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "刺通草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "篦齿虎耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "庐山石韦", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "裂叶秋海棠", "relation": "parent taxon", "entity2": "秋海棠属"}
+{"entity1": "尖槐藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "聚叶虎耳草", "relation": "parent taxon", "entity2": "虎耳草属"}
+{"entity1": "江南星蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "海州蒿", "relation": "parent taxon", "entity2": "蒿属"}
+{"entity1": "黄花蝴蝶草", "relation": "parent taxon", "entity2": "蝴蝶草属"}
+{"entity1": "水葫芦苗", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "柔软石韦", "relation": "basionym", "entity2": "Niphobolus porosus"}
+{"entity1": "母丁香", "relation": "basionym", "entity2": "Caryophyllus aromaticus"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "泰德·艾略特"}
+{"entity1": "黑足金粉蕨", "relation": "instance of", "entity2": "異名"}
+{"entity1": "海南海金沙", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "高原点地梅", "relation": "taxon name", "entity2": "海因里希·冯亨德尔-马志尼"}
+{"entity1": "广东金钱草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "单花鸢尾", "relation": "taxon name", "entity2": "彼得·西蒙·帕拉斯"}
+{"entity1": "粗毛鳞盖蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "刺通草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "篦齿虎耳草", "relation": "taxon rank", "entity2": "变种"}
+{"entity1": "庐山石韦", "relation": "parent taxon", "entity2": "Pyrrosia"}
+{"entity1": "尖槐藤", "relation": "parent taxon", "entity2": "尖槐藤属"}
+{"entity1": "江南星蕨", "relation": "parent taxon", "entity2": "Microsorum"}
+{"entity1": "水葫芦苗", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "母丁香", "relation": "this taxon is source of", "entity2": "Caryophylli Flos"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "泰瑞·羅西奧"}
+{"entity1": "藏中虎耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "艳山姜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "苞叶木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "云南草蔻", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "直序乌头", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "展花乌头", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "窄叶半枫荷", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "搜山虎", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黑足金粉蕨", "relation": "instance of", "entity2": "Onychium cryptogrammoides"}
+{"entity1": "海南海金沙", "relation": "parent taxon", "entity2": "海金沙屬"}
+{"entity1": "高原点地梅", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "广东金钱草", "relation": "parent taxon", "entity2": "山蚂蝗属"}
+{"entity1": "单花鸢尾", "relation": "taxon name", "entity2": "约翰·海因里希·弗里德里希·林克"}
+{"entity1": "粗毛鳞盖蕨", "relation": "parent taxon", "entity2": "Microlepia"}
+{"entity1": "刺通草", "relation": "parent taxon", "entity2": "广叶参属"}
+{"entity1": "篦齿虎耳草", "relation": "parent taxon", "entity2": "小伞虎耳草"}
+{"entity1": "庐山石韦", "relation": "basionym", "entity2": "Polypodium sheareri"}
+{"entity1": "尖槐藤", "relation": "basionym", "entity2": "Periploca esculenta"}
+{"entity1": "江南星蕨", "relation": "basionym", "entity2": "Drynaria fortunei"}
+{"entity1": "水葫芦苗", "relation": "subject has role", "entity2": "Halerpestes cymbalaria"}
+{"entity1": "母丁香", "relation": "this taxon is source of", "entity2": "clove"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "乔·斯蒂尔曼"}
+{"entity1": "藏中虎耳草", "relation": "taxon name", "entity2": "Cecil Victor Boley Marquand"}
+{"entity1": "艳山姜", "relation": "taxon name", "entity2": "Brian Burtt"}
+{"entity1": "苞叶木", "relation": "taxon name", "entity2": "吳征鎰"}
+{"entity1": "云南草蔻", "relation": "taxon name", "entity2": "Karl Moritz Schumann"}
+{"entity1": "直序乌头", "relation": "taxon name", "entity2": "Lucien André Lauener"}
+{"entity1": "展花乌头", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "窄叶半枫荷", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "搜山虎", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "高原点地梅", "relation": "parent taxon", "entity2": "点地梅属"}
+{"entity1": "广东金钱草", "relation": "basionym", "entity2": "Hedysarum styracifolium"}
+{"entity1": "单花鸢尾", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "刺通草", "relation": "basionym", "entity2": "Gastonia palmata"}
+{"entity1": "尖槐藤", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "羅傑·舒爾曼"}
+{"entity1": "云南荚蒾", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "子楝树", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "鸦跖花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "圆齿两色槭", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "雪里见", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "星毛鸭脚木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小白撑", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "锈毛忍冬", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "藏中虎耳草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "艳山姜", "relation": "taxon name", "entity2": "Rosemary Margaret Smith"}
+{"entity1": "苞叶木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "云南草蔻", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "直序乌头", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "展花乌头", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "窄叶半枫荷", "relation": "parent taxon", "entity2": "翅子树属"}
+{"entity1": "搜山虎", "relation": "parent taxon", "entity2": "山莨菪属"}
+{"entity1": "高原点地梅", "relation": "basionym", "entity2": "Androsace villosa var. zambalensis"}
+{"entity1": "单花鸢尾", "relation": "parent taxon", "entity2": "鸢尾属"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "第74屆奧斯卡金像獎"}
+{"entity1": "云南荚蒾", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "子楝树", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "鸦跖花", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "雪里见", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "星毛鸭脚木", "relation": "taxon name", "entity2": "埃尔默·德鲁·美林"}
+{"entity1": "小白撑", "relation": "taxon rank", "entity2": "变种"}
+{"entity1": "锈毛忍冬", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "藏中虎耳草", "relation": "parent taxon", "entity2": "虎耳草属"}
+{"entity1": "艳山姜", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "苞叶木", "relation": "parent taxon", "entity2": "苞叶木属"}
+{"entity1": "云南草蔻", "relation": "parent taxon", "entity2": "山姜属"}
+{"entity1": "直序乌头", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "展花乌头", "relation": "IUCN conservation status", "entity2": "極危"}
+{"entity1": "单花鸢尾", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "奧斯卡最佳動畫片獎"}
+{"entity1": "武当菝葜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "桃儿七", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "娃儿藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "通城虎", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "戟叶艾纳香", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "石柑子", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "石筋草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "伞花马钱", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "云南荚蒾", "relation": "parent taxon", "entity2": "荚蒾属"}
+{"entity1": "子楝树", "relation": "parent taxon", "entity2": "子楝树属"}
+{"entity1": "鸦跖花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "雪里见", "relation": "parent taxon", "entity2": "天南星属"}
+{"entity1": "星毛鸭脚木", "relation": "taxon name", "entity2": "李惠林"}
+{"entity1": "小白撑", "relation": "parent taxon", "entity2": "保山乌头"}
+{"entity1": "锈毛忍冬", "relation": "parent taxon", "entity2": "忍冬属"}
+{"entity1": "艳山姜", "relation": "parent taxon", "entity2": "山姜属"}
+{"entity1": "单花鸢尾", "relation": "subject has role", "entity2": "Joniris uniflora"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "阿伦·沃纳"}
+{"entity1": "武当菝葜", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "桃儿七", "relation": "taxon name", "entity2": "John Forbes Royle"}
+{"entity1": "娃儿藤", "relation": "taxon name", "entity2": "威廉·杰克逊·胡克"}
+{"entity1": "通城虎", "relation": "taxon name", "entity2": "威廉·博廷·赫姆斯利"}
+{"entity1": "戟叶艾纳香", "relation": "taxon name", "entity2": "François Gagnepain"}
+{"entity1": "石柑子", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "石筋草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "伞花马钱", "relation": "taxon name", "entity2": "埃尔默·德鲁·美林"}
+{"entity1": "子楝树", "relation": "basionym", "entity2": "Eugenia gracilenta"}
+{"entity1": "鸦跖花", "relation": "parent taxon", "entity2": "毛茛属"}
+{"entity1": "星毛鸭脚木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "史瑞克", "relation": "nominated for", "entity2": "第74屆奧斯卡金像獎"}
+{"entity1": "马蹄犁头尖", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "曲枝天门冬", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "芹叶龙眼独活", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "铺地蜈蚣", "relation": "instance of", "entity2": "維基媒體消歧義頁"}
+{"entity1": "马槟榔", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "木天蓼", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "露蕊乌头", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "武当菝葜", "relation": "parent taxon", "entity2": "菝葜属"}
+{"entity1": "桃儿七", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "娃儿藤", "relation": "taxon name", "entity2": "恩斯特·戈特利布·冯斯托伊德尔"}
+{"entity1": "通城虎", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "戟叶艾纳香", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "石柑子", "relation": "parent taxon", "entity2": "石柑属"}
+{"entity1": "石筋草", "relation": "parent taxon", "entity2": "冷水花属"}
+{"entity1": "伞花马钱", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "星毛鸭脚木", "relation": "parent taxon", "entity2": "鹅掌柴属"}
+{"entity1": "史瑞克", "relation": "takes place in fictional universe", "entity2": "史瑞克系列"}
+{"entity1": "马蹄犁头尖", "relation": "taxon name", "entity2": "Heinrich Wilhelm Schott"}
+{"entity1": "曲枝天门冬", "relation": "taxon name", "entity2": "Alexander Bunge"}
+{"entity1": "芹叶龙眼独活", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "马槟榔", "relation": "taxon name", "entity2": "Augustin Abel Hector Léveillé"}
+{"entity1": "木天蓼", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "露蕊乌头", "relation": "taxon name", "entity2": "Karl Maximovich"}
+{"entity1": "桃儿七", "relation": "parent taxon", "entity2": "Podophyllum"}
+{"entity1": "娃儿藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "通城虎", "relation": "parent taxon", "entity2": "马兜铃属"}
+{"entity1": "戟叶艾纳香", "relation": "parent taxon", "entity2": "艾纳香属"}
+{"entity1": "伞花马钱", "relation": "parent taxon", "entity2": "马钱属"}
+{"entity1": "史瑞克", "relation": "followed by", "entity2": "史瑞克2"}
+{"entity1": "六叶龙胆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "两色槭", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "阔柄蟹甲草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "宽叶羌活", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "卷毛婆婆纳", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "金沙槭", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "金线草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "尖叶藁本", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "马蹄犁头尖", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "曲枝天门冬", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "芹叶龙眼独活", "relation": "parent taxon", "entity2": "楤木属"}
+{"entity1": "马槟榔", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "木天蓼", "relation": "parent taxon", "entity2": "獼猴桃屬"}
+{"entity1": "露蕊乌头", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "桃儿七", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "娃儿藤", "relation": "parent taxon", "entity2": "娃儿藤属"}
+{"entity1": "史瑞克", "relation": "Filmiroda rating", "entity2": "Category I"}
+{"entity1": "六叶龙胆", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "两色槭", "relation": "taxon name", "entity2": "Faith (Shu Chen) Chun"}
+{"entity1": "阔柄蟹甲草", "relation": "taxon name", "entity2": "陳奕麟"}
+{"entity1": "宽叶羌活", "relation": "taxon name", "entity2": "Henri de Boissieu"}
+{"entity1": "卷毛婆婆纳", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "金沙槭", "relation": "taxon name", "entity2": "阿德里安·勒內·弗朗謝"}
+{"entity1": "金线草", "relation": "taxon name", "entity2": "路德维希·迪尔斯"}
+{"entity1": "尖叶藁本", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "马蹄犁头尖", "relation": "parent taxon", "entity2": "犁头尖属"}
+{"entity1": "曲枝天门冬", "relation": "parent taxon", "entity2": "天门冬属"}
+{"entity1": "马槟榔", "relation": "parent taxon", "entity2": "山柑屬"}
+{"entity1": "露蕊乌头", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "桃儿七", "relation": "subject has role", "entity2": "Sinopodophyllum hexandrum"}
+{"entity1": "娃儿藤", "relation": "basionym", "entity2": "Diplolepis ovata"}
+{"entity1": "史瑞克", "relation": "JMK film rating", "entity2": "free from 6 years"}
+{"entity1": "金花树", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "角叶槭", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "金铁锁", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "金丝条马尾杉", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "海州常山", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黑龙江草蜥", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黄草乌", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黄叶耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "六叶龙胆", "relation": "parent taxon", "entity2": "龙胆属"}
+{"entity1": "两色槭", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "阔柄蟹甲草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "宽叶羌活", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "卷毛婆婆纳", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "金沙槭", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "金线草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "尖叶藁本", "relation": "parent taxon", "entity2": "藁本属"}
+{"entity1": "马蹄犁头尖", "relation": "basionym", "entity2": "Arum trilobatum"}
+{"entity1": "露蕊乌头", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "史瑞克", "relation": "has quality", "entity2": "fails the Bechdel Test"}
+{"entity1": "金花树", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "角叶槭", "relation": "taxon name", "entity2": "陈焕镛"}
+{"entity1": "金铁锁", "relation": "taxon name", "entity2": "Wen Chen(g) Wu"}
+{"entity1": "金丝条马尾杉", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "海州常山", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黑龙江草蜥", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄草乌", "relation": "taxon name", "entity2": "Vladimir Leontyevich Komarov"}
+{"entity1": "黄叶耳草", "relation": "taxon name", "entity2": "亨利·弗萊徹·漢斯"}
+{"entity1": "两色槭", "relation": "parent taxon", "entity2": "枫属"}
+{"entity1": "阔柄蟹甲草", "relation": "parent taxon", "entity2": "假千里光属"}
+{"entity1": "宽叶羌活", "relation": "parent taxon", "entity2": "羌活属"}
+{"entity1": "卷毛婆婆纳", "relation": "parent taxon", "entity2": "婆婆纳属"}
+{"entity1": "金沙槭", "relation": "parent taxon", "entity2": "枫属"}
+{"entity1": "金线草", "relation": "parent taxon", "entity2": "茜草属"}
+{"entity1": "露蕊乌头", "relation": "subject has role", "entity2": "Gymnaconitum gymnandrum"}
+{"entity1": "风藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "虹鳞肋毛蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "长叶紫珠", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "高山扁枝石松", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "鄂西鼠尾草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "丁公藤", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "滇瑞香", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大渡乌头", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "金花树", "relation": "parent taxon", "entity2": "柏拉木属"}
+{"entity1": "角叶槭", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "金铁锁", "relation": "taxon name", "entity2": "吳征鎰"}
+{"entity1": "金丝条马尾杉", "relation": "parent taxon", "entity2": "Phlegmariurus"}
+{"entity1": "海州常山", "relation": "parent taxon", "entity2": "大青属"}
+{"entity1": "黑龙江草蜥", "relation": "parent taxon", "entity2": "Takydromus"}
+{"entity1": "黄草乌", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄叶耳草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "阔柄蟹甲草", "relation": "basionym", "entity2": "Senecio latipes"}
+{"entity1": "宽叶羌活", "relation": "this taxon is source of", "entity2": "Notopterygii Rhizoma"}
+{"entity1": "卷毛婆婆纳", "relation": "has fruit type", "entity2": "蒴果"}
+{"entity1": "风藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "虹鳞肋毛蕨", "relation": "taxon name", "entity2": "秦仁昌"}
+{"entity1": "长叶紫珠", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "高山扁枝石松", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "鄂西鼠尾草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "丁公藤", "relation": "taxon name", "entity2": "乔治·边沁"}
+{"entity1": "滇瑞香", "relation": "taxon name", "entity2": "Augustin Abel Hector Léveillé"}
+{"entity1": "大渡乌头", "relation": "taxon name", "entity2": "Achille Eugène Finet"}
+{"entity1": "角叶槭", "relation": "parent taxon", "entity2": "枫属"}
+{"entity1": "金铁锁", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄草乌", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "黄叶耳草", "relation": "parent taxon", "entity2": "耳草属"}
+{"entity1": "齿叶荨麻", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "淡黄荚蒾", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "草地乌头", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "刺子莞", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "长果水苦荬", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "长柄唐松草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "赤杨叶", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "崇澍蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "风藤", "relation": "parent taxon", "entity2": "胡椒属"}
+{"entity1": "虹鳞肋毛蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "长叶紫珠", "relation": "parent taxon", "entity2": "紫珠属"}
+{"entity1": "高山扁枝石松", "relation": "parent taxon", "entity2": "Diphasiastrum"}
+{"entity1": "鄂西鼠尾草", "relation": "parent taxon", "entity2": "鼠尾草属"}
+{"entity1": "丁公藤", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "滇瑞香", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "大渡乌头", "relation": "taxon name", "entity2": "François Gagnepain"}
+{"entity1": "金铁锁", "relation": "parent taxon", "entity2": "Psammosilene"}
+{"entity1": "黄叶耳草", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "淡黄荚蒾", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "草地乌头", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "刺子莞", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "长果水苦荬", "relation": "taxon name", "entity2": "Giovanni Gussone"}
+{"entity1": "长柄唐松草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "赤杨叶", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "崇澍蕨", "relation": "taxon name", "entity2": "秦仁昌"}
+{"entity1": "虹鳞肋毛蕨", "relation": "parent taxon", "entity2": "Ctenitis"}
+{"entity1": "高山扁枝石松", "relation": "basionym", "entity2": "Lycopodium alpinum"}
+{"entity1": "鄂西鼠尾草", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "丁公藤", "relation": "parent taxon", "entity2": "丁公藤属"}
+{"entity1": "滇瑞香", "relation": "parent taxon", "entity2": "瑞香属"}
+{"entity1": "大渡乌头", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄叶耳草", "relation": "subject has role", "entity2": "Oldenlandia xanthochroa"}
+{"entity1": "天山大黄", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "荛花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "泽藓", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "瑶山谷精草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "羊毛绒球蟹", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "疣枝小檗", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小叶眼树莲", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "线羽贯众", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "淡黄荚蒾", "relation": "parent taxon", "entity2": "荚蒾属"}
+{"entity1": "草地乌头", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "刺子莞", "relation": "parent taxon", "entity2": "刺子莞属"}
+{"entity1": "长果水苦荬", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "长柄唐松草", "relation": "parent taxon", "entity2": "唐松草属"}
+{"entity1": "赤杨叶", "relation": "parent taxon", "entity2": "Alniphyllum"}
+{"entity1": "崇澍蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "虹鳞肋毛蕨", "relation": "basionym", "entity2": "Nephrodium rhodolepis"}
+{"entity1": "大渡乌头", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "天山大黄", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "荛花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "泽藓", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "瑶山谷精草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "羊毛绒球蟹", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "疣枝小檗", "relation": "taxon name", "entity2": "威廉·博廷·赫姆斯利"}
+{"entity1": "小叶眼树莲", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "线羽贯众", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "刺子莞", "relation": "basionym", "entity2": "Schoenus ruber"}
+{"entity1": "长果水苦荬", "relation": "parent taxon", "entity2": "婆婆纳属"}
+{"entity1": "赤杨叶", "relation": "basionym", "entity2": "Halesia fortunei"}
+{"entity1": "崇澍蕨", "relation": "parent taxon", "entity2": "Chieniopteris"}
+{"entity1": "小果雪兔子", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小花盾叶薯蓣", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小嘴乌鸦", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "细齿锥花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "新疆千里光", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "天目地黄", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "挖耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "秃疮花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "天山大黄", "relation": "parent taxon", "entity2": "大黄属"}
+{"entity1": "荛花", "relation": "parent taxon", "entity2": "Laplacea"}
+{"entity1": "泽藓", "relation": "parent taxon", "entity2": "Philonotis"}
+{"entity1": "瑶山谷精草", "relation": "parent taxon", "entity2": "谷精草属"}
+{"entity1": "羊毛绒球蟹", "relation": "parent taxon", "entity2": "Doclea"}
+{"entity1": "疣枝小檗", "relation": "taxon name", "entity2": "威尔荪"}
+{"entity1": "小叶眼树莲", "relation": "parent taxon", "entity2": "眼树莲属"}
+{"entity1": "线羽贯众", "relation": "parent taxon", "entity2": "Cyrtomium"}
+{"entity1": "长果水苦荬", "relation": "has fruit type", "entity2": "蒴果"}
+{"entity1": "小果雪兔子", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "小花盾叶薯蓣", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "小嘴乌鸦", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "细齿锥花", "relation": "taxon name", "entity2": "Stephen Troyte Dunn"}
+{"entity1": "新疆千里光", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "天目地黄", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "挖耳草", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "秃疮花", "relation": "taxon name", "entity2": "Friedrich Karl Georg Fedde"}
+{"entity1": "疣枝小檗", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "长果水苦荬", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "天茄子", "relation": "instance of", "entity2": "維基媒體消歧義頁"}
+{"entity1": "山地虎耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "疏花婆婆纳", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "全缘兔耳草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "柔毛小檗", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "瓶尔小草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "膜边肋毛蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "双湖碱茅", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小果雪兔子", "relation": "parent taxon", "entity2": "风毛菊属"}
+{"entity1": "小花盾叶薯蓣", "relation": "parent taxon", "entity2": "薯蓣属"}
+{"entity1": "小嘴乌鸦", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "细齿锥花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "新疆千里光", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "天目地黄", "relation": "parent taxon", "entity2": "地黄属"}
+{"entity1": "挖耳草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "秃疮花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "疣枝小檗", "relation": "parent taxon", "entity2": "小檗属"}
+{"entity1": "山地虎耳草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "疏花婆婆纳", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "全缘兔耳草", "relation": "taxon name", "entity2": "William Wright Smith"}
+{"entity1": "柔毛小檗", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "瓶尔小草", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "膜边肋毛蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "双湖碱茅", "relation": "taxon name", "entity2": "Liang Liu"}
+{"entity1": "小嘴乌鸦", "relation": "parent taxon", "entity2": "乌鸦"}
+{"entity1": "细齿锥花", "relation": "parent taxon", "entity2": "锥花属"}
+{"entity1": "新疆千里光", "relation": "parent taxon", "entity2": "千里光属"}
+{"entity1": "挖耳草", "relation": "parent taxon", "entity2": "狸藻屬"}
+{"entity1": "秃疮花", "relation": "parent taxon", "entity2": "秃疮花属"}
+{"entity1": "毛荚决明", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "毛花点草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "毛叶老牛筋", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "砾玄参", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "柳叶蒿", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "疗齿草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "罗锅底", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "宽叶楼梯草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "山地虎耳草", "relation": "parent taxon", "entity2": "虎耳草属"}
+{"entity1": "疏花婆婆纳", "relation": "parent taxon", "entity2": "婆婆纳属"}
+{"entity1": "全缘兔耳草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "柔毛小檗", "relation": "parent taxon", "entity2": "小檗属"}
+{"entity1": "瓶尔小草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "膜边肋毛蕨", "relation": "parent taxon", "entity2": "Ctenitis"}
+{"entity1": "双湖碱茅", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "小嘴乌鸦", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "新疆千里光", "relation": "has fruit type", "entity2": "胞果"}
+{"entity1": "挖耳草", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "秃疮花", "relation": "basionym", "entity2": "Glaucium leptopodum"}
+{"entity1": "毛荚决明", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "毛花点草", "relation": "taxon name", "entity2": "Hugh Algernon Weddell"}
+{"entity1": "毛叶老牛筋", "relation": "taxon name", "entity2": "让·路易斯·玛丽·波伊列"}
+{"entity1": "砾玄参", "relation": "taxon name", "entity2": "Johann Anton Weinmann"}
+{"entity1": "柳叶蒿", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "疗齿草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "罗锅底", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "宽叶楼梯草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "山地虎耳草", "relation": "basionym", "entity2": "Micranthes montana"}
+{"entity1": "全缘兔耳草", "relation": "parent taxon", "entity2": "兔耳草属"}
+{"entity1": "瓶尔小草", "relation": "parent taxon", "entity2": "瓶尔小草属"}
+{"entity1": "双湖碱茅", "relation": "parent taxon", "entity2": "硷茅属"}
+{"entity1": "尖头瓶尔小草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "尖齿凤丫蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "催吐萝芙木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "川滇小檗", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "红花隔距兰", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "海南地黄连", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "光滑米口袋", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "狗舌草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "毛荚决明", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "毛花点草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "毛叶老牛筋", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "砾玄参", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "柳叶蒿", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "疗齿草", "relation": "parent taxon", "entity2": "疗齿草属"}
+{"entity1": "罗锅底", "relation": "parent taxon", "entity2": "雪胆属"}
+{"entity1": "宽叶楼梯草", "relation": "parent taxon", "entity2": "楼梯草属"}
+{"entity1": "尖头瓶尔小草", "relation": "taxon name", "entity2": "Nicaise Auguste Desvaux"}
+{"entity1": "尖齿凤丫蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "催吐萝芙木", "relation": "taxon name", "entity2": "亚当·阿夫塞柳斯"}
+{"entity1": "川滇小檗", "relation": "taxon name", "entity2": "乔治·福雷斯特"}
+{"entity1": "红花隔距兰", "relation": "taxon name", "entity2": "Leslie A. Garay"}
+{"entity1": "海南地黄连", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "光滑米口袋", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "狗舌草", "relation": "taxon name", "entity2": "Josef Ludwig Holub"}
+{"entity1": "毛荚决明", "relation": "parent taxon", "entity2": "决明属"}
+{"entity1": "毛花点草", "relation": "parent taxon", "entity2": "花点草属"}
+{"entity1": "毛叶老牛筋", "relation": "parent taxon", "entity2": "无心菜属"}
+{"entity1": "砾玄参", "relation": "parent taxon", "entity2": "玄参属"}
+{"entity1": "柳叶蒿", "relation": "parent taxon", "entity2": "蒿属"}
+{"entity1": "梗花华西龙头草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "光叶决明", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "短舌匹菊", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "对马耳蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "大理白前", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "淡黄香青", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "小叶黑柴胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "扁竹兰", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "尖头瓶尔小草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "尖齿凤丫蕨", "relation": "parent taxon", "entity2": "大凤丫蕨"}
+{"entity1": "催吐萝芙木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "川滇小檗", "relation": "taxon name", "entity2": "William Wright Smith"}
+{"entity1": "红花隔距兰", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "海南地黄连", "relation": "parent taxon", "entity2": "地黄连属"}
+{"entity1": "光滑米口袋", "relation": "parent taxon", "entity2": "米口袋属"}
+{"entity1": "狗舌草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "毛荚决明", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "毛叶老牛筋", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "光叶决明", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "短舌匹菊", "relation": "taxon name", "entity2": "Carl Heinrich 'Bipontinus' Schultz"}
+{"entity1": "对马耳蕨", "relation": "taxon name", "entity2": "John Smith"}
+{"entity1": "大理白前", "relation": "taxon name", "entity2": "鲁道夫·施莱希特"}
+{"entity1": "淡黄香青", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "扁竹兰", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "尖头瓶尔小草", "relation": "parent taxon", "entity2": "瓶尔小草属"}
+{"entity1": "催吐萝芙木", "relation": "parent taxon", "entity2": "萝芙木属"}
+{"entity1": "川滇小檗", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "红花隔距兰", "relation": "parent taxon", "entity2": "隔距兰属"}
+{"entity1": "狗舌草", "relation": "parent taxon", "entity2": "Tephroseris"}
+{"entity1": "毛荚决明", "relation": "subject has role", "entity2": "毛決明"}
+{"entity1": "毛叶老牛筋", "relation": "subject has role", "entity2": "Eremogone capillaris"}
+{"entity1": "斑种草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "新疆柴胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "准噶尔阿魏", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "锥叶柴胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "针齿铁仔", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "汶川柴胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "浙江铃子香", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "野槟榔", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "光叶决明", "relation": "parent taxon", "entity2": "決明屬"}
+{"entity1": "短舌匹菊", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "对马耳蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "大理白前", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "淡黄香青", "relation": "parent taxon", "entity2": "香青属"}
+{"entity1": "扁竹兰", "relation": "parent taxon", "entity2": "鸢尾属"}
+{"entity1": "川滇小檗", "relation": "parent taxon", "entity2": "小檗属"}
+{"entity1": "狗舌草", "relation": "basionym", "entity2": "Senecio kirilowii"}
+{"entity1": "斑种草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "新疆柴胡", "relation": "taxon name", "entity2": "Friedrich August Marschall von Bieberstein"}
+{"entity1": "准噶尔阿魏", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "锥叶柴胡", "relation": "taxon name", "entity2": "Friedrich Gustav Helm"}
+{"entity1": "针齿铁仔", "relation": "taxon name", "entity2": "纳萨尼尔·瓦立池"}
+{"entity1": "汶川柴胡", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "浙江铃子香", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "野槟榔", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "光叶决明", "relation": "basionym", "entity2": "Cassia septemtrionalis"}
+{"entity1": "短舌匹菊", "relation": "parent taxon", "entity2": "菊蒿属"}
+{"entity1": "对马耳蕨", "relation": "parent taxon", "entity2": "Polystichum"}
+{"entity1": "大理白前", "relation": "parent taxon", "entity2": "白前属"}
+{"entity1": "扁竹兰", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "圆锥南芥", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "异叶蔓荆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "线叶柴胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "细果角茴香", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "细须翠雀花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "石椒草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "密花柴胡", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "毛脉附地菜", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "斑种草", "relation": "parent taxon", "entity2": "斑种草属"}
+{"entity1": "新疆柴胡", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "准噶尔阿魏", "relation": "parent taxon", "entity2": "阿魏屬"}
+{"entity1": "锥叶柴胡", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "针齿铁仔", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "汶川柴胡", "relation": "parent taxon", "entity2": "柴胡属"}
+{"entity1": "浙江铃子香", "relation": "parent taxon", "entity2": "铃子香属"}
+{"entity1": "野槟榔", "relation": "parent taxon", "entity2": "山柑屬"}
+{"entity1": "短舌匹菊", "relation": "basionym", "entity2": "Matricaria parthenium"}
+{"entity1": "扁竹兰", "relation": "subject has role", "entity2": "Evansia confusa"}
+{"entity1": "圆锥南芥", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "线叶柴胡", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "细果角茴香", "relation": "taxon name", "entity2": "约瑟夫·道尔顿·胡克"}
+{"entity1": "石椒草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "密花柴胡", "relation": "taxon name", "entity2": "Franz Josef Ruprecht"}
+{"entity1": "毛脉附地菜", "relation": "taxon name", "entity2": "乔治·边沁"}
+{"entity1": "新疆柴胡", "relation": "parent taxon", "entity2": "柴胡属"}
+{"entity1": "锥叶柴胡", "relation": "parent taxon", "entity2": "柴胡属"}
+{"entity1": "针齿铁仔", "relation": "parent taxon", "entity2": "铁仔属"}
+{"entity1": "密齿酸藤子", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "美小膜盖蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "两色乌头", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黑升麻", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "金叶子", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "多枝香草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "广防风", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "山椒草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "圆锥南芥", "relation": "parent taxon", "entity2": "南芥属"}
+{"entity1": "线叶柴胡", "relation": "parent taxon", "entity2": "柴胡属"}
+{"entity1": "细果角茴香", "relation": "taxon name", "entity2": "Thomas Thomson"}
+{"entity1": "石椒草", "relation": "parent taxon", "entity2": "石椒草属"}
+{"entity1": "密花柴胡", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "毛脉附地菜", "relation": "taxon name", "entity2": "查尔斯·拜伦·克拉克"}
+{"entity1": "密齿酸藤子", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "美小膜盖蕨", "relation": "taxon name", "entity2": "Edwin Copeland"}
+{"entity1": "两色乌头", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黑升麻", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "金叶子", "relation": "taxon name", "entity2": "William Wright Smith"}
+{"entity1": "多枝香草", "relation": "taxon name", "entity2": "Firmin Baudo"}
+{"entity1": "广防风", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "山椒草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "线叶柴胡", "relation": "basionym", "entity2": "Bupleurum falcatum var. angustissimum"}
+{"entity1": "细果角茴香", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "密花柴胡", "relation": "parent taxon", "entity2": "柴胡属"}
+{"entity1": "毛脉附地菜", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "耳形瘤足蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "德钦乌头", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "钝苞一枝黄花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "倒挂铁角蕨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "藏麻黄", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "簇花蒲桃", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "川拟水龙骨", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "白叶瓜馥木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "密齿酸藤子", "relation": "parent taxon", "entity2": "酸藤子属"}
+{"entity1": "美小膜盖蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "两色乌头", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "黑升麻", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "金叶子", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "多枝香草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "广防风", "relation": "parent taxon", "entity2": "广防风属"}
+{"entity1": "山椒草", "relation": "parent taxon", "entity2": "草胡椒属"}
+{"entity1": "细果角茴香", "relation": "parent taxon", "entity2": "角茴香属"}
+{"entity1": "毛脉附地菜", "relation": "parent taxon", "entity2": "附地菜属"}
+{"entity1": "耳形瘤足蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "德钦乌头", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "钝苞一枝黄花", "relation": "taxon name", "entity2": "Sergéi Yuzepchuk"}
+{"entity1": "倒挂铁角蕨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "藏麻黄", "relation": "taxon name", "entity2": "John Forbes Royle"}
+{"entity1": "簇花蒲桃", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "川拟水龙骨", "relation": "taxon name", "entity2": "秦仁昌"}
+{"entity1": "白叶瓜馥木", "relation": "taxon name", "entity2": "埃尔默·德鲁·美林"}
+{"entity1": "美小膜盖蕨", "relation": "parent taxon", "entity2": "Araiostegia"}
+{"entity1": "黑升麻", "relation": "parent taxon", "entity2": "类叶升麻属"}
+{"entity1": "金叶子", "relation": "parent taxon", "entity2": "假木荷属"}
+{"entity1": "多枝香草", "relation": "parent taxon", "entity2": "珍珠菜属"}
+{"entity1": "毛脉附地菜", "relation": "basionym", "entity2": "Eritrichium microcarpum"}
+{"entity1": "柘木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "通光散", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "泽漆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "菥蓂", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "溪黄草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "牡蒿", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "漆姑草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "翻白草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "耳形瘤足蕨", "relation": "parent taxon", "entity2": "Plagiogyria"}
+{"entity1": "德钦乌头", "relation": "parent taxon", "entity2": "乌头属"}
+{"entity1": "钝苞一枝黄花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "倒挂铁角蕨", "relation": "parent taxon", "entity2": "山蘇"}
+{"entity1": "藏麻黄", "relation": "taxon name", "entity2": "Carl Rudolf Florin"}
+{"entity1": "簇花蒲桃", "relation": "parent taxon", "entity2": "蒲桃属"}
+{"entity1": "川拟水龙骨", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "白叶瓜馥木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "美小膜盖蕨", "relation": "basionym", "entity2": "Davallia pulchra"}
+{"entity1": "黑升麻", "relation": "has fruit type", "entity2": "蓇葖果"}
+{"entity1": "金叶子", "relation": "IUCN conservation status", "entity2": "无危物种"}
+{"entity1": "柘木", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "通光散", "relation": "taxon name", "entity2": "Alexander Moon"}
+{"entity1": "泽漆", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "菥蓂", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "溪黄草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "牡蒿", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "漆姑草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "翻白草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "钝苞一枝黄花", "relation": "parent taxon", "entity2": "一枝黄花属"}
+{"entity1": "藏麻黄", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "川拟水龙骨", "relation": "parent taxon", "entity2": "Polypodiastrum"}
+{"entity1": "白叶瓜馥木", "relation": "parent taxon", "entity2": "瓜馥木属"}
+{"entity1": "黑升麻", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "鹿茸草", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "矮陀陀", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "胖大海", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "中国旌节花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "下田菊", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "柱果铁线莲", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "羊耳菊", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "六棱菊", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "柘木", "relation": "parent taxon", "entity2": "桑橙属"}
+{"entity1": "通光散", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "泽漆", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "菥蓂", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "溪黄草", "relation": "parent taxon", "entity2": "香茶菜属"}
+{"entity1": "牡蒿", "relation": "parent taxon", "entity2": "蒿属"}
+{"entity1": "漆姑草", "relation": "parent taxon", "entity2": "漆姑草属"}
+{"entity1": "翻白草", "relation": "parent taxon", "entity2": "委陵菜属"}
+{"entity1": "藏麻黄", "relation": "parent taxon", "entity2": "麻黃屬"}
+{"entity1": "川拟水龙骨", "relation": "basionym", "entity2": "Polypodium dielseanum"}
+{"entity1": "白叶瓜馥木", "relation": "basionym", "entity2": "Melodorum glaucescens"}
+{"entity1": "黑升麻", "relation": "subject has role", "entity2": "Cimifuga racemosa"}
+{"entity1": "鹿茸草", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "矮陀陀", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "胖大海", "relation": "taxon name", "entity2": "亨利·弗萊徹·漢斯"}
+{"entity1": "中国旌节花", "relation": "taxon name", "entity2": "阿德里安·勒內·弗朗謝"}
+{"entity1": "下田菊", "relation": "taxon name", "entity2": "Otto Kuntze"}
+{"entity1": "柱果铁线莲", "relation": "taxon name", "entity2": "John George Champion"}
+{"entity1": "羊耳菊", "relation": "taxon name", "entity2": "奥古斯丁·彼拉姆斯·德堪多"}
+{"entity1": "六棱菊", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "柘木", "relation": "subject has role", "entity2": "basionym"}
+{"entity1": "通光散", "relation": "parent taxon", "entity2": "牛嬭菜屬"}
+{"entity1": "泽漆", "relation": "parent taxon", "entity2": "大戟屬"}
+{"entity1": "菥蓂", "relation": "parent taxon", "entity2": "遏蓝菜属"}
+{"entity1": "漆姑草", "relation": "basionym", "entity2": "Spergula japonica"}
+{"entity1": "黑升麻", "relation": "subject has role", "entity2": "Cimicifuga racemosa"}
+{"entity1": "细叶百合", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "杜虹花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "肉花卫矛", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "琼花", "relation": "instance of", "entity2": "维基媒体重复页面"}
+{"entity1": "金钟花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "红花龙胆", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "黄花倒水莲", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "杜鹃兰", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "鹿茸草", "relation": "parent taxon", "entity2": "鹿茸草属"}
+{"entity1": "矮陀陀", "relation": "parent taxon", "entity2": "地黄连属"}
+{"entity1": "胖大海", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "中国旌节花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "下田菊", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "柱果铁线莲", "relation": "taxon name", "entity2": "乔治·边沁"}
+{"entity1": "羊耳菊", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "六棱菊", "relation": "parent taxon", "entity2": "六棱菊属"}
+{"entity1": "柘木", "relation": "subject has role", "entity2": "拓树"}
+{"entity1": "通光散", "relation": "basionym", "entity2": "Asclepias tenacissima"}
+{"entity1": "菥蓂", "relation": "has fruit type", "entity2": "角果"}
+{"entity1": "细叶百合", "relation": "taxon name", "entity2": "奥古斯丁·彼拉姆斯·德堪多"}
+{"entity1": "杜虹花", "relation": "taxon name", "entity2": "Robert Allen Rolfe"}
+{"entity1": "肉花卫矛", "relation": "taxon name", "entity2": "威廉·博廷·赫姆斯利"}
+{"entity1": "琼花", "relation": "instance of", "entity2": "绣球荚蒾"}
+{"entity1": "金钟花", "relation": "taxon name", "entity2": "约翰·林德利"}
+{"entity1": "红花龙胆", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "黄花倒水莲", "relation": "taxon name", "entity2": "威廉·博廷·赫姆斯利"}
+{"entity1": "杜鹃兰", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "鹿茸草", "relation": "basionym", "entity2": "Bungea sheareri"}
+{"entity1": "胖大海", "relation": "parent taxon", "entity2": "蘋婆屬"}
+{"entity1": "中国旌节花", "relation": "parent taxon", "entity2": "Stachyurus"}
+{"entity1": "下田菊", "relation": "parent taxon", "entity2": "下田菊属"}
+{"entity1": "柱果铁线莲", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "羊耳菊", "relation": "parent taxon", "entity2": "旋覆花属"}
+{"entity1": "六棱菊", "relation": "basionym", "entity2": "Erigeron alatus"}
+{"entity1": "二歧银莲花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "短瓣金莲花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "打碗花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "暴马丁香", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "波缘冷水花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "朝天罐", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "斑茅", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "迷迭香", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "细叶百合", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "杜虹花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "肉花卫矛", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "金钟花", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "红花龙胆", "relation": "parent taxon", "entity2": "龙胆属"}
+{"entity1": "黄花倒水莲", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "杜鹃兰", "relation": "parent taxon", "entity2": "杜鹃兰属"}
+{"entity1": "胖大海", "relation": "taxon synonym", "entity2": "Scaphium affine"}
+{"entity1": "下田菊", "relation": "basionym", "entity2": "Verbesina lavenia"}
+{"entity1": "柱果铁线莲", "relation": "parent taxon", "entity2": "铁线莲属"}
+{"entity1": "二歧银莲花", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "短瓣金莲花", "relation": "taxon name", "entity2": "路德維希·賴興巴赫"}
+{"entity1": "打碗花", "relation": "taxon name", "entity2": "纳萨尼尔·瓦立池"}
+{"entity1": "波缘冷水花", "relation": "taxon name", "entity2": "Augustin Abel Hector Léveillé"}
+{"entity1": "朝天罐", "relation": "taxon rank", "entity2": "种"}
+{"entity1": "斑茅", "relation": "taxon name", "entity2": "Anders Jahan Retzius"}
+{"entity1": "迷迭香", "relation": "taxon name", "entity2": "卡尔·林奈"}
+{"entity1": "细叶百合", "relation": "parent taxon", "entity2": "百合属"}
+{"entity1": "杜虹花", "relation": "parent taxon", "entity2": "紫珠属"}
+{"entity1": "肉花卫矛", "relation": "parent taxon", "entity2": "卫矛属"}
+{"entity1": "金钟花", "relation": "parent taxon", "entity2": "连翘属"}
+{"entity1": "黄花倒水莲", "relation": "parent taxon", "entity2": "远志属"}
+{"entity1": "阿尔泰银莲花", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "风衣", "relation": "subclass of", "entity2": "大衣"}
+{"entity1": "香加皮", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "马比木", "relation": "instance of", "entity2": "生物分類單元"}
+{"entity1": "青牛胆", "relation": "instance of", "entity2": "生物分類單元"}

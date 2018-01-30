@@ -22,7 +22,7 @@ class entityRelationSpider(scrapy.spiders.Spider):
 				relationName[relation] = relationJson['chrmention']
 
 		count = 0 
-		with open("/home/kuangjun/WikidataSpider/wikidataRelation/readytoCrawl.json","r") as fr:
+		with open("/home/kuangjun/WikidataSpider/wikidataRelation/readytoCrawl2.json","r") as fr:
 			for line in fr.readlines():
 				count += 1 
 				print(1.0*count/33355)
@@ -30,13 +30,17 @@ class entityRelationSpider(scrapy.spiders.Spider):
 				link = "https:"+entityJson['entity']['url']
 				entityName = entityJson['entityOriginName']
 				entity = scrapy.Request(link,callback=self.parseEntity)
+				print(1.0*count/33355)
 				entity.meta['entityName'] = entityName
 				entity.meta['link'] = link
+				entity.meta['count'] = count
 				yield entity
 
 
 	def parseEntity(self, response):
 		print("=======================")
+		count = response.meta['count']
+		print(1.0*count/33355)
 
 		entity1 = response.meta['entityName']
 		entityRelation = WikidatarelationItem()
