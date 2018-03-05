@@ -88,4 +88,4 @@ ENV/
 
 #wiki corpus
 wikiextractor/extracted/
-!wikiextractor/extracted/*.py
+!wikiextractor/extracted/convLan.py
