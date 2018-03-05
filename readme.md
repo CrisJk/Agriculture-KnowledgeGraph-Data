@@ -4,6 +4,8 @@
 
 python3、 Scrapy
 
+
+
 ### wikidataCrawler说明
 
 **用来爬取wikidata上定义的所有关系**
@@ -45,4 +47,24 @@ wikidataRelation爬取得到的是实体和实体间的三元关系，wikidata�
 首先运行preProcess.py，得到readytoCrawl.json。然后进入到wikidataRelation目录下，运行scrapy crawl entityRelation。可以得到`entityRelation.json` 。
 
 `entityRelation.json`是利用`entity.json`中的所有实体为基础，获取与这些实体相关的其他实体和关系。
+
+### CN_DBpediaCrawler
+
+CN_DBpedia限制访问，需要向复旦大学知识工场申请API，否则只能限制每分钟爬取次数，这里的爬虫还有些问题，暂时不能使用。
+
+### wikiextractor
+
+wikiextractor是用来获取维基百科语料的工具，维基百科有wiki dump可以直接下载：[下载链接]([http://download.wikipedia.com/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2](http://download.wikipedia.com/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2)) ,下载好之后，利用wikiextractor工具进行处理，可以剔除掉一些无用的信息，直接得到维基百科语料库。[wikiextractor工具链接](https://github.com/attardi/wikiextractor) ,下载并安装后，将wiki dump放在wikiextractor目录下，执行命令
+
+```shell
+bzcat zhwiki-latest-pages-articles.xml.bz2 | python WikiExtractor.py -b 500K -o extracted -
+```
+
+可以得到处理好的维基百科语料，在目录extractor下。
+
+
+
+由于得到的语料既有简体也有繁体，所以要进行繁简体转换。将本项目wikiextractor\extracted目录下的三个python文件复制到你处理好的维基百科语料的目录(extractor)下，运行convLan.py便可以将繁体转化为简体。
+
+
 
