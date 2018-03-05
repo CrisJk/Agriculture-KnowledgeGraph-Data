@@ -87,5 +87,5 @@ ENV/
 .spyderproject
 
 #wiki corpus
-wikiextractor/
+wikiextractor/*
 !wikiextractor/*.py
