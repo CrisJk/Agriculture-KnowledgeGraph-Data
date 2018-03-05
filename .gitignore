@@ -87,5 +87,5 @@ ENV/
 .spyderproject
 
 #wiki corpus
-wikiextractor/extracted/
-!convLan.py
+/wikiextractor/extracted/
+!/wikiextractor/extracted/convLan.py
