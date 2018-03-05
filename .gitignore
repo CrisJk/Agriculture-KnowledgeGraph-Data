@@ -88,4 +88,4 @@ ENV/
 
 #wiki corpus
 wikiextractor/
-!/wikiextractor/*.py
+!wikiextractor/*.py
