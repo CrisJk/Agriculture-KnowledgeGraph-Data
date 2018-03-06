@@ -88,3 +88,6 @@ ENV/
 
 #wiki corpus
 A*/
+
+#json
+*.json
