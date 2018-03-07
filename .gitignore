@@ -91,3 +91,6 @@ A*/
 
 #json
 *.json
+
+#train data
+TrainDataBaseOnWiki/train_data.txt
