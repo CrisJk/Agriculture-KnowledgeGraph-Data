@@ -58,7 +58,7 @@ for root,dirs,files in os.walk(corpusPath):
 							for i in range(entityNumber):
 								answer = db.findRelationBetweenEntities(entityList[i])
 								for relation in answer:
-									rel = str(relation['rel'])
+									rel = str(relation['rel']).split("\"")[1]
 									n2 = str(relation['n2'])
 									index = n2.find('title')
 									flag = 0
