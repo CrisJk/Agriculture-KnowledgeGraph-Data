@@ -99,7 +99,7 @@ entity1	entity2	statement	relation
 
 * 错误处理
  
- 部分句子有换行，把换行去掉
+  部分句子有换行，把换行去掉
   
   第一次产生的数据train_data.txt，由于之前程序在切割字符串时出了问题，因此relation这一列不对，这里重新处理一下
 
