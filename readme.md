@@ -95,3 +95,23 @@ bzcat zhwiki-latest-pages-articles.xml.bz2 | python WikiExtractor.py -b 500K -o 
 
 entity1	entity2	statement	relation
 
+得到train_data.txt后，使用dataScrubbing.py处理得到的数据,包括:
+
+*错误处理
+*部分句子有换行，把换行去掉
+*第一次产生的数据train_data.txt，由于之前程序在切割字符串时出了问题，因此relation这一列不对，这里重新处理一下
+
+*选择农业相关的数据
+*从所有训练集中挑选出与农业有关的数据
+
+运行
+```shell
+python dataScrubbing.py handleError
+```
+执行错误管理模块
+
+运行
+```shell
+python dataScrubbing.py selectAgriculturalData
+```
+执行数据选择模块
