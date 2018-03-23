@@ -34,7 +34,7 @@ with open("fileReaded.txt","r") as fileReaded:
 		fileReadedList.append(line.strip())
 		print(line.strip())
 #递归遍历语料库文件夹
-with open("train_data5.txt",'w') as fw:
+with open("train_data6.txt",'w') as fw:
 	with open("fileReaded.txt","a") as filereaded:
 		fw.write('entity1\tentity2\tstatement\trelation\n')
 		#存储已经搜索过的实体，避免重复查询
