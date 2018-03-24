@@ -1,4 +1,74 @@
 {% extends "base.html" %} {% block mainbody %}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-9">
+            <br/>
+            <div class="panel panel-default">
+
+                <!--代表将html标签文本转义成标签显示-->
+                <div class="panel-body">
+                    <p class="card-title">
+                        <h1>Statement</h1>
+                        <hr/>
+                    </p>
+                    <h3><span style="color: red">朊病毒</span>是通过改变其他蛋白质的构象来进行自身精确复制的一类<span style="color: red">蛋白质</span>。</h3>
+                    <h4><span style="color: green"><strong>Entity1: 朊病毒</strong></span>&nbsp&nbsp&nbsp&nbsp<span style="color: orange"><strong>Relation: subclass of</strong></span>&nbsp&nbsp&nbsp&nbsp<span style="color: green"><strong>Entity2: 蛋白质</strong></span></h4>
+                </div>
+            </div>
+
+            <div class="col-sm-13">
+            <br/>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                <p class="card-title">
+                    <h1>Choose Label:</h1>
+                    <hr/>
+                </p>
+                    <form action="tagging-get" method="get" class="form-inline">
+
+
+                        <!-- Button trigger modal -->
+                        <div>
+                            <a href="#" data-toggle="modal" data-target="#exampleModal">
+
+                            </a>
+                        </div>
+                        <br/>
+                        <a type="button" href="tagging-get.html" class="btn btn-warning btn-lg">&nbsp&nbspTrue&nbsp&nbsp</a>&nbsp&nbsp&nbsp&nbsp
+	                        <button type="submit" class="btn float-right btn-success btn-lg">&nbsp&nbspFalse&nbsp&nbsp</button>
+                        <div class = "form-group">
+	                        
+	                        <input type="text" class="form-control" placeholder="其他关系" >
+                    	</div>
+                </form>
+                </div>
+            </div>
+
+
+            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Marked data count</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            				<span aria-hidden="true">&times;</span>
+          					</button>
+
+         				</div>
+				        <div class="modal-body">
+				            already 
+				        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+        <div class="col-sm-1"></div>
+    </div>
+</div>
 
 
 {% endblock %}

@@ -25,7 +25,7 @@ SECRET_KEY = 'uphg_m8pb8cy(ggb^#&-@du+nh*auve3ys+hhp-fwi38o$ykix'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.1.115']
 
 
 # Application definition

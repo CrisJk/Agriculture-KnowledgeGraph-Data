@@ -5,5 +5,5 @@ from django.views.decorators import csrf
 import os
 def tagging(request):
 	context = {}
-	filePath = os.path.getcwd();
+	#filePath = os.path.getcwd();
 	return render(request,'taggingSentences.html',context)
