@@ -10,8 +10,8 @@ import copy
 
 class WikidatarelationPipeline(object):
 	def __init__(self):
-		self.file = codecs.open('entityRelation.json','w',encoding = 'utf-8')
-		self.file2 = codecs.open('entity1_entity2.json','w' , encoding = 'utf-8')
+		self.file = codecs.open('entityRelation3.json','w',encoding = 'utf-8')
+		self.file2 = codecs.open('entity1_entity4.json','w' , encoding = 'utf-8')
 
 	def process_item(self, item, spider):
 		print(item)
