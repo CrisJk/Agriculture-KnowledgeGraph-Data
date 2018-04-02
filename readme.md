@@ -101,7 +101,9 @@ entity1	entity2	statement	relation
 
 得到train_data.txt后，使用dataScrubbing.py处理得到的数据,包括:
 
-* 错误处理
+* 错误处理(not necessary)
+
+  **如果数据中有错误，利用该模块处理错误**
 
   部分句子有换行，把换行去掉
 
@@ -109,7 +111,7 @@ entity1	entity2	statement	relation
 
 * 选择农业相关的数据
 
-  从所有训练集中挑选出与农业有关的数据
+  从指定的训练集文件中挑选出与农业有关的数据
 
 运行
 ```shell
@@ -119,6 +121,6 @@ python dataScrubbing.py handleError
 
 运行
 ```shell
-python dataScrubbing.py selectAgriculturalData
+python dataScrubbing.py selectAgriculturalData filename
 ```
 执行数据选择模块
