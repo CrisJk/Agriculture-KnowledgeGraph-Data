@@ -4,7 +4,9 @@ import csv
 import sys
 import os
 sys.path.append("..")
+
 from Model.neo_models import Neo4j 
+from Model.mongo_model import Mongo
 from toolkit.vec_API import word_vector_model
 from toolkit.tree_API import TREE
 	
@@ -22,7 +24,7 @@ with open(filePath+'/toolkit/predict_labels.txt','r',encoding="utf-8") as csvfil
 	for row in reader:
 		predict_labels[str(row[0])] = int(row[1])
 print('predicted labels load over!')
-		
+
 # 读取word vector
 # wv_model = word_vector_model()
 # #wv_model.read_vec('toolkit/vector_5.txt') # 测试用，节约读取时间
@@ -38,7 +40,16 @@ print('predicted labels load over!')
 # print('level tree load over~~~')
 
 		
-		
-		
-		
-		
+# 预加载mongodb
+mongo = Mongo()
+mongo.makeConnection()
+print("mongodb connected")
+#连接数据库
+mongodb = mongo.getDatabase("agricultureKnowledgeGraph")
+print("connect to agricultureKnowledgeGraph")
+# 得到collection
+collection = mongo.getCollection("train_data")
+print("get connection train_data")
+
+testDataCollection = mongo.getCollection("test_data")
+print("get connection test_data")
