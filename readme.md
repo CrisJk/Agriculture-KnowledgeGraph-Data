@@ -1,16 +1,30 @@
+
+
 # 说明
 
 > 本项目为一些用于获取知识图谱中三元组关系的python脚本。包括爬取Wikidata数据的爬虫、爬取复旦知识工场数据的爬虫(由于知识工场限制爬取，这部分暂时不好用)、提取所有中文维基页面的脚本以及将Wikidata三元组数据对齐到中文维基页面语句的脚本。
 
 ### 运行环境
 
-python3、 Scrapy、neo4j(仅对齐时需要)
+python3、 Scrapy、neo4j(仅对齐时需要)、MongoDB(标注关系数据集时需要)
 
 
 
 > 注意：下面所有爬虫执行命令scrapy crawl XXX 请在各个模块的根目录执行，否则可能由于路径问题找不到文件导致程序报错
 
  
+
+### 训练集标注工具(update 2018.04.07)
+
+![](https://raw.githubusercontent.com/CrisJk/SomePicture/master/blog_picture/tagging.JPG)
+
+用于标注训练集的工具，如果Statement的标签是对的，点击True按钮；否则选择一个关系，或者输入其它关系。若当前句子无法判断，则点击Change One按钮换一条数据。
+
+说明:　Statement是/TrainDataBaseOnWiki/finalData中train_data.txt中的数据，我们将它转化成json,导入到mongoDB中。标注好的数据同样存在MongoDB中另一个Collection中。关于Mongo的使用方法可以参考官方tutorial，或者利用这篇文章简单了解一下[MongoDB](http://crisjk.site/2018/04/04/MongoDB-Tutorial/) 。
+
+我们在MongoDB中使用两个Collections，一个是train_data，即未经人工标注的数据；另一个是test_data，即人工标注好的数据。
+
+![](https://raw.githubusercontent.com/CrisJk/crisjk.github.io/master/resource/pictures/Agriculture-KnowledgeGraph-Data-README/mongo.png)
 
 ### wikidataCrawler
 
