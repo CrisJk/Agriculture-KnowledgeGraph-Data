@@ -26,6 +26,10 @@ python3、 Scrapy、neo4j(仅对齐时需要)、MongoDB(标注关系数据集时
 
 ![](https://raw.githubusercontent.com/CrisJk/crisjk.github.io/master/resource/pictures/Agriculture-KnowledgeGraph-Data-README/mongo.png)
 
+##### 使用方法
+
+启动neo4j,mongodb之后，进入taggingdemo目录，启动django服务，进入127.0.0.1:8000/tagging即可使用
+
 ### wikidataCrawler
 
 **用来爬取wikidata上定义的所有关系**
