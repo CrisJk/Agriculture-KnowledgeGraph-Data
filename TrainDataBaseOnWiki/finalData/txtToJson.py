@@ -9,11 +9,13 @@ else:
 		with open(sys.argv[2],'a') as fw:
 			for line in fr:
 				data = line.split('\t')
-				if(len(data) == 4):
+				if(len(data) == 6):
 					train_data = dict()
-					train_data['Entity1'] = data[0].strip()
-					train_data['Entity2'] = data[1].strip()
-					train_data['Statement'] = data[2].strip()
-					train_data['Relation'] = data[3].strip()
-					train_data_json = json.dumps(train_data)
+					train_data['entity1Pos'] = data[0].strip()
+					train_data['entity1'] = data[1].strip()
+					train_data['entity2Pos'] = data[2].strip()
+					train_data['entity2'] = data[3].strip()
+					train_data['statement'] = data[4].strip()
+					train_data['relation'] = data[5].strip()
+					train_data_json = json.dumps(train_data,ensure_ascii=False)
 					fw.write(train_data_json+"\n")

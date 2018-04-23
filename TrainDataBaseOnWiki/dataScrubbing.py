@@ -133,18 +133,16 @@ class DataScrubbing(object):
 				for line in fr:
 					count += 1
 					triplet = line.strip().split('\t') 
-					if(len(triplet) == 4):
-						entity1 = triplet[0]
-						entity2 = triplet[1] 
-						statement = triplet[2]
-						relation = triplet[3]
+					if(len(triplet) == 6):
+						entity1Pos = triplet[0]
+						entity1 = triplet[1]
+						entity2Pos = triplet[2]
+						entity2 = triplet[3] 
+						statement = triplet[4]
+						relation = triplet[5]
 						if( (relation == "instance of" or relation == "taxon rank" or relation == "subclass of" or relation == "parent taxon") and ((entity1 in entitySet) or \
 							(entity2 in entitySet)) ):
-							#这里如果Statment内部出现了双引号，则整个句子用双引号括起来，是为了可以导入进MongoDB，MongoDB如果某个field中出现双引号，则整个filed要用一个双引号括起来，内部的双引号要重复两次
-							if "\"" in statement:
-								fw.write(entity1+"\t"+entity2+"\t"+"\""+statement+"\""+"\t"+relation+"\n")
-							else:
-								fw.write(entity1+"\t"+entity2+"\t"+statement+"\t"+relation+"\n")
+							fw.write(entity1Pos+"\t"+entity1+"\t"+entity2Pos+"\t"+entity2+"\t"+"\""+statement+"\""+"\t"+relation+"\n")
 
 if __name__ == "__main__":
 	if(len(sys.argv) == 1):
