@@ -142,3 +142,9 @@ python dataScrubbing.py handleError
 python dataScrubbing.py selectAgriculturalData filename
 ```
 执行数据选择模块
+
+
+
+### hudongpediaCrawler
+
+包含中国各个城市的各种气候，以及爬取所有气候的互动百科页面
