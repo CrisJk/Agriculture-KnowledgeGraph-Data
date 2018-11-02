@@ -14,7 +14,9 @@ python3、 Scrapy、neo4j(仅对齐时需要)、MongoDB(标注关系数据集时
 
  
 
-### 训练集标注工具(update 2018.04.07)
+### Model&taggingDemo&toolkit训练集标注工具(update 2018.04.07)
+
+
 
 ![](https://raw.githubusercontent.com/CrisJk/SomePicture/master/blog_picture/tagging.JPG)
 
@@ -143,6 +145,13 @@ python dataScrubbing.py selectAgriculturalData filename
 ```
 执行数据选择模块
 
+### wikidataAnalyse
+
+wikidataAnalyse: 得到staticResult.txt,统计各种关系的分布情况
+
+extractEntityAttribute: 获取实体属性得到attributes.csv
+
+getCorpus(弃用): 获得互动百科语料hudongBaikeCorpus.txt
 
 
 ### hudongpediaCrawler

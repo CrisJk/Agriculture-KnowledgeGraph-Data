@@ -5,11 +5,11 @@ import pymongo
 from pymongo import MongoClient
 
 class Mongo():
-	clent = None
+	client = None
 	db = None
 	collection = None
 	def makeConnection(self):
-		self.client = MongoClient('localhost',27017)
+		self.client = MongoClient('10.11.6.117',27017)
 
 	def getDatabase(self,dbName):
 		self.db = self.client[dbName]
