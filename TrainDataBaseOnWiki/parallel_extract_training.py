@@ -174,7 +174,7 @@ def get_na_samples():
     cpu_num = cpu_count()
     pool = Pool(int(cpu_num/4))
     result = None
-    with open("NA_sample.txt",'w',encoding = 'utf8') as fw:
+    with open("NA_sample_big.txt",'w',encoding = 'utf8') as fw:
         for file in tqdm(file_name_list):
             with open(file,'r',encoding='utf8') as fr:
                 lines = fr.readlines()
